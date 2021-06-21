@@ -28,10 +28,12 @@ This directory stores scripts and data for generating csv files which can be com
 #### Data files <br>
 
 ##### Entities: <br>
-genes.tsv: containing information about genes. <br>
-metabolites.tsv: containing informaion about metabolites. <br>
-reactions.tsv: containing information about reactions. <br>
-groups.tsv: containing information about metabolites classification/metabolic subsytems. <br>
+|File| Description|
+---------|-----------
+|genes.tsv| containing information about genes|
+|metabolites.tsv| containing informaion about metabolites|
+|reactions.tsv| containing information about reactions|
+|groups.tsv| containing information about metabolites classification/metabolic subsytems|
 
 ##### Relationships: <br>
 geneRoles.tsv: indicating relationships between gene and reactions. <br> 
