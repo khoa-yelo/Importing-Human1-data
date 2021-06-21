@@ -23,18 +23,32 @@ The input tsv files were obtained from [this repository](https://github.com/paul
 
 ### Database Overview 
 
-This directory stores scripts and data files for generating csv and tMCF files for ingesting Human1 data to Data Commons knowledge graph. 
+This directory stores scripts, data for generating csv files which can be combined with the provided tMCF and MCF files to ingest Human1 data to Data Commons knowledge graph. 
 
-Entities:
-genes.tsv: containing information about genes.
-metabolites.tsv: containing informaion about metabolites.
-reactions.tsv: containing information about reactions.
-groups.tsv: containing information about metabolites classification/metabolic subsytems.
+#### Data files <br>
 
-Relationships:
-geneRoles.tsv: indicating relationships between gene and reactions.
-reactantRoles.tsv: indicating relationships between reactions and their reatants.
-productRoles.tsv: inicating relationships between reactions and their products.
-groupMemberships.tsv: indicating relationships between reations and the subsystems they belong to.
+##### Entities: <br>
+genes.tsv: containing information about genes. <br>
+metabolites.tsv: containing informaion about metabolites. <br>
+reactions.tsv: containing information about reactions. <br>
+groups.tsv: containing information about metabolites classification/metabolic subsytems. <br>
 
+##### Relationships: <br>
+geneRoles.tsv: indicating relationships between gene and reactions. <br> 
+reactantRoles.tsv: indicating relationships between reactions and their reatants. <br>
+productRoles.tsv: inicating relationships between reactions and their products. <br>
+groupMemberships.tsv: indicating relationships between reations and the subsystems they belong to. <br>
+
+#### Scripts
+
+format_genes.py: genes.tsv -> genes.csv
+format_metabolites.py: metabolites.tsv -> metabolites.csv
+format_reactions.py: reactions.tsv -> reactions.csv
+format_groups.py: groups.tsv -> groups.csv
+format_geneRoles.py: geneRoles.tsv -> geneRoles.csv
+format_reactantRoles.py: reactantRoles.tsv -> reactantRoles.csv
+format_productRoles.py: productRoles.tsv -> productRoles.csv
+format_groupMemberships.py: groupMemberships.tsv -> groupMemberships.csv
+
+Schema Overview 
 
