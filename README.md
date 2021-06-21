@@ -27,7 +27,8 @@ This directory stores scripts and data for generating csv files which can be com
 
 #### Data files <br>
 
-* Entities: <br>
+* Entities:
+
 |File| Description|
 ---------|-----------
 |genes.tsv| containing information about genes|
@@ -35,7 +36,8 @@ This directory stores scripts and data for generating csv files which can be com
 |reactions.tsv| containing information about reactions|
 |groups.tsv| containing information about metabolites classification/metabolic subsytems|
 
-* Relationships: <br>
+* Relationships:
+
 |File| Description|
 ---------|-----------
 |geneRoles.tsv| indicating relationships between gene and reactions|
