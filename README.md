@@ -71,5 +71,7 @@ This directory stores scripts and data for generating csv files which can be com
 
 # Schema Overview 
 
+Human1 data contains information about the relationships between metabolites, reactions, metabolic subsystems, and proteins involved in reations. 
+
 [test](./df_subSystems_Human1d)
 
