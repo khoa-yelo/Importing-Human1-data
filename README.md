@@ -46,15 +46,16 @@ This directory stores scripts and data for generating csv files which can be com
 |groupMemberships.tsv| indicating relationships between reations and the subsystems they belong to|
 
 #### Scripts
-
-format_genes.py: genes.tsv -> genes.csv
-format_metabolites.py: metabolites.tsv -> metabolites.csv
-format_reactions.py: reactions.tsv -> reactions.csv
-format_groups.py: groups.tsv -> groups.csv
-format_geneRoles.py: geneRoles.tsv -> geneRoles.csv
-format_reactantRoles.py: reactantRoles.tsv -> reactantRoles.csv
-format_productRoles.py: productRoles.tsv -> productRoles.csv
-format_groupMemberships.py: groupMemberships.tsv -> groupMemberships.csv
+|File| Description|
+---------|-----------
+|format_genes.py |genes.tsv -> genes.csv|
+|format_metabolites.py| metabolites.tsv -> metabolites.csv|
+|format_reactions.py| reactions.tsv -> reactions.csv|
+|format_groups.py| groups.tsv -> groups.csv|
+|format_geneRoles.py| geneRoles.tsv -> geneRoles.csv|
+|format_reactantRoles.py| reactantRoles.tsv -> reactantRoles.csv|
+|format_productRoles.py| productRoles.tsv -> productRoles.csv|
+|format_groupMemberships.py| groupMemberships.tsv -> groupMemberships.csv|
 
 ##### tMCF files
 
