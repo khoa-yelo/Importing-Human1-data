@@ -58,15 +58,16 @@ This directory stores scripts and data for generating csv files which can be com
 |format_groupMemberships.py| groupMemberships.tsv -> groupMemberships.csv|
 
 ##### tMCF files
-
-genes.tmcf: combine with genes.csv for ingestion  
-metabolites.tmcf: combine with metabolites.csv for ingestion  
-reactions.tmcf: combine with reactions.csv for ingestion  
-groups.tmcf: combine with groups.csv for ingestion  
-geneRoles.tmcf: combine with geneRoles.csv for ingestion  
-reactantRoles.tmcf: combine with reactantRoles.csv for ingestion  
-productRoles.tmcf: combine with productRoles.csv for ingestion  
-groupMemberships.tmcf: combine with groupMemberships.csv for ingestion  
+|File| Description|
+---------|-----------
+|genes.tmcf| combine with genes.csv for ingestion  |
+|metabolites.tmcf| combine with metabolites.csv for ingestion  |
+|reactions.tmcf| combine with reactions.csv for ingestion  |
+|groups.tmcf| combine with groups.csv for ingestion  |
+|geneRoles.tmcf| combine with geneRoles.csv for ingestion  |
+|reactantRoles.tmcf| combine with reactantRoles.csv for ingestion  |
+|productRoles.tmcf| combine with productRoles.csv for ingestion  |
+|groupMemberships.tmcf| combine with groupMemberships.csv for ingestion  |
 
 # Schema Overview 
 
