@@ -1,8 +1,0 @@
-Node: E:product_reaction->E1
-typeOf: dcs:Reaction
-dcid: C:product_reaction->reactionID
-
-Node: E:product_reaction->E2
-typeOf: dcs:Metabolite
-dcid: C:product_reaction->dcid
-productOf: E:product_reaction->E1
