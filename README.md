@@ -23,7 +23,7 @@ The input tsv files were obtained from [this repository](https://github.com/paul
 
 ### Database Overview 
 
-This directory stores scripts, data for generating csv files which can be combined with the provided tMCF and MCF files to ingest Human1 data to Data Commons knowledge graph. 
+This directory stores scripts and data for generating csv files which can be combined with the provided tMCF and MCF files to ingest Human1 data to Data Commons knowledge graph. 
 
 #### Data files <br>
 
@@ -50,5 +50,18 @@ format_reactantRoles.py: reactantRoles.tsv -> reactantRoles.csv
 format_productRoles.py: productRoles.tsv -> productRoles.csv
 format_groupMemberships.py: groupMemberships.tsv -> groupMemberships.csv
 
-Schema Overview 
+##### tMCF files
+
+genes.tmcf: combine with genes.csv for ingestion  
+metabolites.tmcf: combine with metabolites.csv for ingestion  
+reactions.tmcf: combine with reactions.csv for ingestion  
+groups.tmcf: combine with groups.csv for ingestion  
+geneRoles.tmcf: combine with geneRoles.csv for ingestion  
+reactantRoles.tmcf: combine with reactantRoles.csv for ingestion  
+productRoles.tmcf: combine with productRoles.csv for ingestion  
+groupMemberships.tmcf: combine with groupMemberships.csv for ingestion  
+
+# Schema Overview 
+
+[test](./df)
 
