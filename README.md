@@ -19,4 +19,6 @@
 
 ### Download URL
 
-Input tsv files can be [here](https://github.com/paul-shannon/bio-gdb/tree/main/forSam/v1)
+The original repository of the input tsv files can be found [here](https://github.com/paul-shannon/bio-gdb/tree/main/forSam/v1). These files were extracted from [Human-GEM repository](https://github.com/SysBioChalmers/Human-GEM)
+
+
