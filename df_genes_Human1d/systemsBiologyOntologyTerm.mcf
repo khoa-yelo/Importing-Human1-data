@@ -1,5 +1,0 @@
-Node: systemsBiologyOntologyTerm
-dcid: systemsBiologyOntologyTerm
-typeOf: dcs:Property
-domainIncludes: dcs:Gene
-rangeIncludes: dcs:Text
