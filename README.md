@@ -39,10 +39,10 @@ This directory stores scripts and data for generating csv files which can be com
 
 |File| Description|
 ---------|-----------
-|geneRoles.tsv| indicating relationships between gene and reactions|
-|reactantRoles.tsv| indicating relationships between reactions and their reatants|
-|productRoles.tsv| inicating relationships between reactions and their products|
-|groupMemberships.tsv| indicating relationships between reations and the subsystems they belong to|
+|[geneRoles.tsv](https://github.com/khoahoang1891999/ISB_project/tree/main/data/geneRoles.tsv)| indicating relationships between gene and reactions|
+|[reactantRoles.tsv](https://github.com/khoahoang1891999/ISB_project/tree/main/data/geneRoles.tsv)| indicating relationships between reactions and their reatants|
+|[productRoles.tsv](https://github.com/khoahoang1891999/ISB_project/tree/main/data/geneRoles.tsv)| inicating relationships between reactions and their products|
+|[groupMemberships.tsv](https://github.com/khoahoang1891999/ISB_project/tree/main/data/geneRoles.tsv)| indicating relationships between reations and the subsystems they belong to|
 
 #### Scripts
 |File| Description|
