@@ -74,14 +74,10 @@ Information about License can be found [here](https://github.com/SysBioChalmers/
 #### Scripts
 |File| Description|
 ---------|-----------
-|format_genes.py |genes.tsv -> genes.csv|
-|format_metabolites.py| metabolites.tsv -> metabolites.csv|
+|format_genes_geneRoles.py |genes.tsv, geneRoles.tsv -> formatted genes.csv, geneRoles.csv|
+|format_metabolites_reactantRoles_productRoles.py| metabolites.tsv -> formatted metabolites.csv, reactants.csv, products.csv|
 |format_reactions.py| reactions.tsv -> reactions.csv|
-|format_groups.py| groups.tsv -> groups.csv|
-|format_geneRoles.py| geneRoles.tsv -> geneRoles.csv|
-|format_reactantRoles.py| reactantRoles.tsv -> reactantRoles.csv|
-|format_productRoles.py| productRoles.tsv -> productRoles.csv|
-|format_groupMemberships.py| groupMemberships.tsv -> groupMemberships.csv|
+|format_groups_groupMemberships.py| groups.tsv, groupMemberships.tsv -> formatted groups.csv, groupMemberships.tsv|
 
 ##### tMCF files
 |File| Description|
