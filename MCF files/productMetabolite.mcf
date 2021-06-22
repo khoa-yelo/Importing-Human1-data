@@ -1,0 +1,6 @@
+Node: dcid:productMetabolite
+name: "productMetabolite"
+typeOf: schema:Property 
+rangeIncludes: dcs:Metabolite
+domainIncludes: dcs:Reaction
+description: "Products of the reaction"

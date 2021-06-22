@@ -1,0 +1,40 @@
+Node: dcid:CellularCompartmentEnum 
+name: "CellularCompartmentEnum"
+subClassOf: schema:Enumeration 
+typeOf: schema:Class 
+
+Node: dcid:CellularCompartmentEnumCytosol
+name: "Cytosol"
+typeOf: dcs:CellularCompartmentEnum 
+
+Node: dcid:CellularCompartmentEnumExtracellular
+name: "Extracellular"
+typeOf: dcs:CellularCompartmentEnum 
+
+Node: dcid:CellularCompartmentEnumLysosome
+name: "Lysosome"
+typeOf: dcs:CellularCompartmentEnum 
+
+Node: dcid:CellularCompartmentEnumEndoplasmicReticulum
+name: "Endoplasmic reticulum"
+typeOf: dcs:CellularCompartmentEnum 
+
+Node: dcid:CellularCompartmentEnumMitochondria
+name: "Mitochondria"
+typeOf: dcs:CellularCompartmentEnum 
+
+Node: dcid:CellularCompartmentEnumPeroxisome
+name: "Peroxisome"
+typeOf: dcs:CellularCompartmentEnum 
+
+Node: dcid:CellularCompartmentEnumGolgiApparatus
+name: "Golgi apparatus"
+typeOf: dcs:CellularCompartmentEnum 
+
+Node: dcid:CellularCompartmentEnumNucleus
+name: "Nucleus"
+typeOf: dcs:CellularCompartmentEnum 
+
+Node: dcid:CellularCompartmentEnumInnerMitochondria
+name: "Inner mitochondria"
+typeOf: dcs:CellularCompartmentEnum 

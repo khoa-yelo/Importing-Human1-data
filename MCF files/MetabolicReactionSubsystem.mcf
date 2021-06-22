@@ -1,0 +1,14 @@
+Node: dcid:MetabolicReactionSubsystem
+name: "MetabolicReactionSubsystem"
+typeOf: schema:Class
+description: "Metabolic Reaction Subsystem"
+
+Node: dcid:humanGEMID
+domainIncludes: dcs:MetabolicReactionSubsystem
+
+Node: dcid:hierachyType
+name: "hierachyType"
+typeOf: schema:Property 
+rangeIncludes: dcs:hierachyType 
+domainIncludes: dcs:MetabolicReactionSubsystem
+description: "Classification system"

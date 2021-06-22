@@ -1,0 +1,6 @@
+Node: dcid:memberOfMetabolicReactionSubsystem
+name: "memberOfMetabolicReactionSubsystem"
+typeOf: schema:Property
+rangeIncludes: dcs:MetabolicReactionSubsystem
+domainIncludes: dcs:Reaction 
+description:"Member Of Metabolic Reaction Subsystem"

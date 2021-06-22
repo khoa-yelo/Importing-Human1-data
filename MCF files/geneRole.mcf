@@ -1,0 +1,6 @@
+Node: dcid:geneRole
+name: "geneRole"
+typeOf: schema:Property
+rangeIncludes: dcs:Reaction
+domainIncludes: dcs:Gene
+description: "Gene product participate in certain activities"

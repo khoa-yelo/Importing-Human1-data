@@ -1,0 +1,8 @@
+Node: dcid:HierachyTypeEnum
+name: "HierachyTypeEnum"
+subClassOf: schema:Enumeration 
+typeOf: schema:Class 
+
+Node: dcid:HierachyTypeEnumPartonomy
+name: "Partonomy"
+typeOf: dcs:HierachyTypeEnum

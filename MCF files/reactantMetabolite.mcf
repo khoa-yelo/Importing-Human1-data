@@ -1,0 +1,6 @@
+Node: dcid:reactantMetabolite
+name: "reactantMetabolite"
+typeOf: schema:Property 
+rangeIncludes: dcs:Metabolite
+domainIncludes: dcs:Reaction
+description: "Reactants of the reaction"

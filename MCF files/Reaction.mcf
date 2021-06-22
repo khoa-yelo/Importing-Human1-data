@@ -1,0 +1,56 @@
+Node: dcid:Reaction
+name: "Reaction"
+typeOf: schema:Class
+description: "Metabolic reactions"
+
+Node: dcid:humanGEMID
+domainIncludes: dcs:Reaction
+
+Node: dcid:reversibleReaction
+name: "reversibleReaction"
+typeOf: schema:Property
+rangeIncludes: schema:Text
+domainIncludes: dcs:Reaction
+description:
+
+Node: dcid:fastReaction
+name: "fastReaction"
+typeOf: schema:Property
+rangeIncludes: schema:Text
+domainIncludes: dcs:Reaction
+description:
+
+Node: dcid:metabolicFluxRange
+name: "metabolicFluxRange"
+typeOf: schema:Property
+rangeIncludes: dcs:QuantityRange
+domainIncludes: dcs:Reaction
+description:
+
+Node: dcid:enzymeCommissionNumber
+name: "enzymeCommissionNumber"
+typeOf: schema:Property
+rangeIncludes: schema:Text
+domainIncludes: dcs:Reaction
+description: "The Enzyme Commission number (EC number) is a numerical classification scheme for enzymes, based on the chemical reactions they catalyze"
+
+Node: dcid:keggReactionID
+name: "keggReactionID"
+typeOf: schema: Property
+rangeIncludes: schema: Text
+domainIncludes: dcs: Reaction
+description: 
+
+Node: dcid: biggID
+domainIncludes: dcs: Reaction
+
+Node: dcid: metanetxID
+domainIncludes: dcs:Reaction
+
+Node: dcid:reactomeID
+name: "reactomeID"
+typeOf: schema: Property
+rangeIncludes: schema: Text
+domainIncludes: dcs: Reaction
+description: "Reactome identifier. REACTOME is an open-source, open access, manually curated and peer-reviewed pathway database."
+descriptionUrl: "https://reactome.org/"
