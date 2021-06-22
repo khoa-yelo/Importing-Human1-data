@@ -76,7 +76,7 @@ Human1 data contains information about the relationships between metabolites, re
 The gene.tsv file provides information about systems biology ontology term. This new property is in [systemsBiologyOntology.mcf](https://github.com/khoahoang1891999/ISB_project/blob/main/MCF%20files/systemsBiologyOntologyTerm.mcf) <br>
 A new class of Metabolite and its associated properties are defined in [Metabolite.mcf](https://github.com/khoahoang1891999/ISB_project/blob/main/MCF%20files/Metabolite.mcf) and [CellularCompartmentEnum.mcf](https://github.com/khoahoang1891999/ISB_project/blob/main/MCF%20files/CellularCompartmentEnum.mcf) <br>
 A new class of Reaction and its associated properties are defined in [Reaction.mcf](https://github.com/khoahoang1891999/ISB_project/blob/main/MCF%20files/Reaction.mcf)<br>
-A new class of MetabolicReactionSubsystem and its associated properties are defined in [MetabolicReactionSubsystems.mcf](https://github.com/khoahoang1891999/ISB_project/blob/main/MCF%20files/MetabolicReactionSubsystems.mcf) and [HierachyTypeEnum.mcf](https://github.com/khoahoang1891999/ISB_project/blob/main/MCF%20files/HierachyTypeEnum.mcf) <br>
+A new class of MetabolicReactionSubsystem and its associated properties are defined in [MetabolicReactionSubsystems.mcf](https://github.com/khoahoang1891999/ISB_project/blob/main/MCF%20files/MetabolicReactionSubsystem.mcf) and [HierachyTypeEnum.mcf](https://github.com/khoahoang1891999/ISB_project/blob/main/MCF%20files/HierachyTypeEnum.mcf) <br>
 
 Relationship between genes and reactions is defined in [geneRole.mcf](https://github.com/khoahoang1891999/ISB_project/blob/main/MCF%20files/geneRole.mcf). <br> 
 
