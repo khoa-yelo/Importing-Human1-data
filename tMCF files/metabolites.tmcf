@@ -2,7 +2,7 @@ Node: E:metabolites->E1
 typeOf: dcs:Metabolite
 dcid: C:metabolites->dcid
 humanGEMID: C:metabolites->id
-chemicalName: C:metabolites->name
+name: C:metabolites->name
 cellularCompartment: C:metabolites->compartment
 chemicalFormula: C:metabolites->chemicalFormula
 biggID: C:metabolites->bigg.metabolite
