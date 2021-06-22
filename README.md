@@ -68,7 +68,7 @@ This directory stores scripts and data for generating csv files which can be com
 |productRoles.tmcf| combine with productRoles.csv for ingestion  |
 |groupMemberships.tmcf| combine with groupMemberships.csv for ingestion  |
 
-# Schema Overview 
+### Schema Overview 
 
 Human1 data contains information about the relationships between metabolites, reactions, metabolic subsystems, and proteins/genes involved in reations. 
 
@@ -83,11 +83,16 @@ Relationship between metabolites and reactions are defined in [productMetabolite
 
 Relationship between reactions and metabolic subsystems is defined in [memberOfMetabolicReactionSubsystem.mcf](https://github.com/khoahoang1891999/ISB_project/blob/main/MCF%20files/memberOfMetabolicReactionSubsystem.mcf)
 
-# Notes and Caveats
+### Notes and Caveats
 
-# License
+Several gene symbols were not abled to map to existing Gene dcid on Data Commons knowledge graph. Specifically, NTAQ1 couldn't be found on GenomeAssembly hg38. NTAQ1, Z83844.1, AC011462.1, AL845331.1, AC022400.5, AP000812.4, AC093512.2, AL160260.1 couldn't be found on GenomeAssembly hg19. <br>
+
+8 metabolites are metabolite classes, in which case humanGEMIDs are used as dcid <br>
+
+### License
 
 Information about License can be found [here](https://github.com/SysBioChalmers/Human-GEM/blob/master/LICENSE.md)
 
-
+## About the Import 
+### 
 
