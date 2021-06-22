@@ -8,7 +8,6 @@
     3. [Schema Overview](#schema-overview)
     4. [Notes and Caveats](#notes-and-caveats)
     5. [License](#license)
-    6. [Dataset Documentation and Relevant Links](#dataset-documentation-and-relevant-links)
 2. [About the Import](#about-the-import)
     1. [Artifacts](#artifacts)
     2. [Import Procedure](#import-procedure)
