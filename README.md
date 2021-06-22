@@ -44,29 +44,7 @@ This directory stores scripts and data for generating csv files which can be com
 |[productRoles.tsv](https://github.com/khoahoang1891999/ISB_project/tree/main/data/productRoles.tsv)| inicating relationships between reactions and their products|
 |[groupMemberships.tsv](https://github.com/khoahoang1891999/ISB_project/tree/main/data/groupMemberships.tsv)| indicating relationships between reations and the subsystems they belong to|
 
-#### Scripts
-|File| Description|
----------|-----------
-|format_genes.py |genes.tsv -> genes.csv|
-|format_metabolites.py| metabolites.tsv -> metabolites.csv|
-|format_reactions.py| reactions.tsv -> reactions.csv|
-|format_groups.py| groups.tsv -> groups.csv|
-|format_geneRoles.py| geneRoles.tsv -> geneRoles.csv|
-|format_reactantRoles.py| reactantRoles.tsv -> reactantRoles.csv|
-|format_productRoles.py| productRoles.tsv -> productRoles.csv|
-|format_groupMemberships.py| groupMemberships.tsv -> groupMemberships.csv|
 
-##### tMCF files
-|File| Description|
----------|-----------
-|genes.tmcf| combine with genes.csv for ingestion  |
-|metabolites.tmcf| combine with metabolites.csv for ingestion  |
-|reactions.tmcf| combine with reactions.csv for ingestion  |
-|groups.tmcf| combine with groups.csv for ingestion  |
-|geneRoles.tmcf| combine with geneRoles.csv for ingestion  |
-|reactantRoles.tmcf| combine with reactantRoles.csv for ingestion  |
-|productRoles.tmcf| combine with productRoles.csv for ingestion  |
-|groupMemberships.tmcf| combine with groupMemberships.csv for ingestion  |
 
 ### Schema Overview 
 
@@ -93,3 +71,26 @@ Information about License can be found [here](https://github.com/SysBioChalmers/
 ## About the Import 
 ### 
 
+#### Scripts
+|File| Description|
+---------|-----------
+|format_genes.py |genes.tsv -> genes.csv|
+|format_metabolites.py| metabolites.tsv -> metabolites.csv|
+|format_reactions.py| reactions.tsv -> reactions.csv|
+|format_groups.py| groups.tsv -> groups.csv|
+|format_geneRoles.py| geneRoles.tsv -> geneRoles.csv|
+|format_reactantRoles.py| reactantRoles.tsv -> reactantRoles.csv|
+|format_productRoles.py| productRoles.tsv -> productRoles.csv|
+|format_groupMemberships.py| groupMemberships.tsv -> groupMemberships.csv|
+
+##### tMCF files
+|File| Description|
+---------|-----------
+|genes.tmcf| combine with genes.csv for ingestion  |
+|metabolites.tmcf| combine with metabolites.csv for ingestion  |
+|reactions.tmcf| combine with reactions.csv for ingestion  |
+|groups.tmcf| combine with groups.csv for ingestion  |
+|geneRoles.tmcf| combine with geneRoles.csv for ingestion  |
+|reactantRoles.tmcf| combine with reactantRoles.csv for ingestion  |
+|productRoles.tmcf| combine with productRoles.csv for ingestion  |
+|groupMemberships.tmcf| combine with groupMemberships.csv for ingestion  |
