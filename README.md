@@ -9,7 +9,7 @@
     4. [Notes and Caveats](#notes-and-caveats)
     5. [License](#license)
 2. [About the Import](#about-the-import)
-    1. [Scripts](#scripta)
+    1. [Scripts](#scripts)
     2. [tMCF files](#tMCF-files)
     3. [Example](#example)
     
