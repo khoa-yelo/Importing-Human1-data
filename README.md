@@ -70,9 +70,8 @@ Several gene symbols were not abled to map to existing Gene dcid on Data Commons
 Information about License can be found [here](https://github.com/SysBioChalmers/Human-GEM/blob/master/LICENSE.md)
 
 ## About the Import 
-### 
 
-#### Scripts
+### Scripts
 |File| Description|
 ---------|-----------
 |[format_genes_geneRoles.py](https://github.com/khoahoang1891999/ISB_project/blob/main/scripts/format_genes_geneRoles.py)|Inputs: genes.tsv, geneRoles.tsv <br> Outputs: formatted genes.csv, geneRoles.csv|
@@ -80,7 +79,7 @@ Information about License can be found [here](https://github.com/SysBioChalmers/
 |[format_reactions.py](https://github.com/khoahoang1891999/ISB_project/blob/main/scripts/format_reactions.py)|Inputs: reactions.tsv <br> Outputs: formatted reactions.csv|
 |[format_groups_groupMemberships.py](https://github.com/khoahoang1891999/ISB_project/blob/main/scripts/format_groups_groupMemberships.py)|Inputs: groups.tsv, groupMemberships.tsv<br> Outputs: formatted groups.csv, groupMemberships.tsv|
 
-##### tMCF files
+### tMCF files
 |File| Description|
 ---------|-----------
 |[genes.tmcf](https://github.com/khoahoang1891999/ISB_project/blob/main/tMCF%20files/genes.tmcf)| combine with genes.csv for ingestion  |
@@ -92,11 +91,11 @@ Information about License can be found [here](https://github.com/SysBioChalmers/
 |[productRoles.tmcf](https://github.com/khoahoang1891999/ISB_project/blob/main/tMCF%20files/productRoles.tmcf)| combine with productRoles.csv for ingestion  |
 |[groupMemberships.tmcf](https://github.com/khoahoang1891999/ISB_project/blob/main/tMCF%20files/groupMemberships.tmcf)| combine with groupMemberships.csv for ingestion  |
 
-##### Example 
+### Example 
 
 To format genes.tsv and geneRoles.tsv, run:
 ```bash
-python format_genes_geneRoles "genes.tsv" "geneRoles.tsv"
+python format_genes_geneRoles.py "genes.tsv" "geneRoles.tsv"
 ```
 
 The formatted genes.csv and geneRoles.csv will be generated in the current directory. These csv files can be combined with its corressponding tMCF files for dat ingestion to Data Commons.
