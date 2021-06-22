@@ -73,5 +73,7 @@ This directory stores scripts and data for generating csv files which can be com
 
 Human1 data contains information about the relationships between metabolites, reactions, metabolic subsystems, and proteins/genes involved in reations. 
 
-One
+The gene.tsv file provides information about systems biology ontology term. This new property is in [systemsBiologyOntology.mcf](./MCF files/systemsBiologyOntology.mcf)
+A new class of Metabolite and its associated properties are defined in [Metabolite.mcf](./MCF files/Metabolite.mcf) and [CellularCompartmentEnum](./MCF files/CellularCompartmentEnum.mcf)
+A new class of Reaction and its associated properties are defined in [Reaction.mcf]
 
