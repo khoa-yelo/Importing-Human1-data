@@ -86,7 +86,7 @@ Information about License can be found [here](https://github.com/SysBioChalmers/
 ##### tMCF files
 |File| Description|
 ---------|-----------
-|[genes.tmcf](https://github.com/khoahoang1891999/ISB_project/blob/main/tMCF%20files/gene.tmcf)| combine with genes.csv for ingestion  |
+|[genes.tmcf](https://github.com/khoahoang1891999/ISB_project/blob/main/tMCF%20files/genes.tmcf)| combine with genes.csv for ingestion  |
 |[metabolites.tmcf](https://github.com/khoahoang1891999/ISB_project/blob/main/tMCF%20files/metabolites.tmcf)| combine with metabolites.csv for ingestion  |
 |[reactions.tmcf](https://github.com/khoahoang1891999/ISB_project/blob/main/tMCF%20files/reactions.tmcf)| combine with reactions.csv for ingestion  |
 |[groups.tmcf](https://github.com/khoahoang1891999/ISB_project/blob/main/tMCF%20files/groups.tmcf)| combine with groups.csv for ingestion  |
