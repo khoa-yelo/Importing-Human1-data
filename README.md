@@ -74,10 +74,10 @@ Information about License can be found [here](https://github.com/SysBioChalmers/
 #### Scripts
 |File| Description|
 ---------|-----------
-|[format_genes_geneRoles.py](https://github.com/khoahoang1891999/ISB_project/blob/main/scripts/format_genes_geneRoles.py)|genes.tsv, geneRoles.tsv -> formatted genes.csv, geneRoles.csv|
-|[format_metabolites_reactantRoles_productRoles.py](https://github.com/khoahoang1891999/ISB_project/blob/main/scripts/format_metabolites_reactantRoles_productRoles.py)| metabolites.tsv -> formatted metabolites.csv, reactants.csv, products.csv|
-|[format_reactions.py](https://github.com/khoahoang1891999/ISB_project/blob/main/scripts/format_reactions.py)| reactions.tsv -> reactions.csv|
-|[format_groups_groupMemberships.py](https://github.com/khoahoang1891999/ISB_project/blob/main/scripts/format_groups_groupMemberships.py)| groups.tsv, groupMemberships.tsv -> formatted groups.csv, groupMemberships.tsv|
+|[format_genes_geneRoles.py](https://github.com/khoahoang1891999/ISB_project/blob/main/scripts/format_genes_geneRoles.py)|Inputs: genes.tsv, geneRoles.tsv <br> Outputs: formatted genes.csv, geneRoles.csv|
+|[format_metabolites_reactantRoles_productRoles.py](https://github.com/khoahoang1891999/ISB_project/blob/main/scripts/format_metabolites_reactantRoles_productRoles.py)|Inputs: metabolites.tsv <br> Outputs: formatted metabolites.csv, reactants.csv, products.csv|
+|[format_reactions.py](https://github.com/khoahoang1891999/ISB_project/blob/main/scripts/format_reactions.py)|Inputs: reactions.tsv <br> Outputs: formatted reactions.csv|
+|[format_groups_groupMemberships.py](https://github.com/khoahoang1891999/ISB_project/blob/main/scripts/format_groups_groupMemberships.py)|Inputs: groups.tsv, groupMemberships.tsv<br> Outputs: formatted groups.csv, groupMemberships.tsv|
 
 ##### tMCF files
 |File| Description|
