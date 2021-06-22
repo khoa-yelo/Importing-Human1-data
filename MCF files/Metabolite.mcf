@@ -1,0 +1,50 @@
+Node: dcid:Metabolite
+name: "Metabolite"
+typeOf: schema: Class 
+subClassOf: dcs:ChemicalCompound 
+description: "Metabolites participate in biochemical reactions"
+
+Node: dcid:humanGEMID
+name: "humanGEMID"
+typeOf: schema:Property 
+rangeIncludes: schema:Text 
+domainIncludes: dcs:Metabolite 
+description: "Human Genome-scale metabolic Model ID"
+
+Node: dcid: cellularCompartment
+name: "cellularCompartment"
+typeOf: schema:Property 
+rangeIncludes: schema:CellularCompartmentEnum
+domainIncludes: dcs: Metabolite 
+description: "Human Genome-scale metabolic Model ID"
+
+Node: dcid:chemicalFormula
+name: "chemicalFormula"
+typeOf: schema:Property 
+rangeIncludes: schema:Text
+domainIncludes: dcs:ChemicalCompound 
+description: "Chemical Formula"
+
+Node: dcid:biggID
+name: "biggID"
+typeOf: schema:Property 
+rangeIncludes: schema:Text
+domainIncludes: dcs:Metabolite
+description: "BiGG Models is a knowledgebase of genome-scale metabolic network reconstructions. It is hosted and maintained by the Systems Biology Research Group at the University of California, San Diego."
+descriptionUrl: "http://bigg.ucsd.edu/"
+
+Node: dcid:metanetxID
+name: "metanetxID"
+typeOf: schema:Property 
+rangeIncludes: schema:Text
+domainIncludes: dcs:Metabolite
+description: "MetaNetX/MNXref is a reconciliation of metabolites and biochemical reactions providing cross-links between major public biochemistry and Genome-Scale Metabolic Network (GSMN) databases. https://academic.oup.com/nar/article/49/D1/D570/5958493"
+descriptionUrl: "https://www.metanetx.org/"
+
+Node: dcid:lipidmapsID
+name: "lipidmapsID"
+typeOf: schema:Property 
+rangeIncludes: schema:Text
+domainIncludes: dcs:Metabolite
+description: "LIPID MAPS® Lipidomics Gateway was created in 2003 via an NIH “Glue Grant” to provide access to lipid nomenclature, databases, tools, protocols, standards, tutorials, meetings, publications, and other resources and serving the international lipid research community."
+descriptionUrl: "https://www.lipidmaps.org/"
