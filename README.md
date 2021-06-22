@@ -30,19 +30,19 @@ This directory stores scripts and data for generating csv files which can be com
 
 |File| Description|
 ---------|-----------
-|genes.tsv| containing information about genes|
-|metabolites.tsv| containing informaion about metabolites|
-|reactions.tsv| containing information about reactions|
-|groups.tsv| containing information about metabolites classification/metabolic subsytems|
+|[genes.tsv](https://github.com/khoahoang1891999/ISB_project/tree/main/data/genes.tsv)| containing information about genes|
+|[metabolites.tsv](https://github.com/khoahoang1891999/ISB_project/tree/main/data/metabolites.tsv)| containing informaion about metabolites|
+|[reactions.tsv](https://github.com/khoahoang1891999/ISB_project/tree/main/data/reactions.tsv)| containing information about reactions|
+|[groups.tsv](https://github.com/khoahoang1891999/ISB_project/tree/main/data/groups.tsv)| containing information about metabolites classification/metabolic subsytems|
 
 * Relationships:
 
 |File| Description|
 ---------|-----------
 |[geneRoles.tsv](https://github.com/khoahoang1891999/ISB_project/tree/main/data/geneRoles.tsv)| indicating relationships between gene and reactions|
-|[reactantRoles.tsv](https://github.com/khoahoang1891999/ISB_project/tree/main/data/geneRoles.tsv)| indicating relationships between reactions and their reatants|
-|[productRoles.tsv](https://github.com/khoahoang1891999/ISB_project/tree/main/data/geneRoles.tsv)| inicating relationships between reactions and their products|
-|[groupMemberships.tsv](https://github.com/khoahoang1891999/ISB_project/tree/main/data/geneRoles.tsv)| indicating relationships between reations and the subsystems they belong to|
+|[reactantRoles.tsv](https://github.com/khoahoang1891999/ISB_project/tree/main/data/reactantRoles.tsv)| indicating relationships between reactions and their reatants|
+|[productRoles.tsv](https://github.com/khoahoang1891999/ISB_project/tree/main/data/productRoles.tsv)| inicating relationships between reactions and their products|
+|[groupMemberships.tsv](https://github.com/khoahoang1891999/ISB_project/tree/main/data/groupMemberships.tsv)| indicating relationships between reations and the subsystems they belong to|
 
 #### Scripts
 |File| Description|
