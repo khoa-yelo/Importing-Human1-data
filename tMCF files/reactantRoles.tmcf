@@ -1,9 +1,9 @@
-Node: E:reactant_reaction->E1
+Node: E:reactantRoles->E1
 typeOf: dcs:Metabolite
-dcid: C:reactant_reaction->dcid
+dcid: C:reactantRoles->dcid
 
-Node: E:reactant_reaction->E2
+Node: E:reactantRoles->E2
 typeOf: dcs:Reaction
-dcid: C:reactant_reaction->reactionID
-reactantMetabolites: E:reactant_reaction->E1
+dcid: C:reactantRoles->reactionID
+reactantMetabolites: E:reactantRoles->E1
 
