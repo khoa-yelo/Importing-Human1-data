@@ -1,0 +1,143 @@
+id,name,kind,sboTerm,dcid
+group1,Acyl-CoA hydrolysis,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/acyl-coa_hydrolysis
+group2,Acylglycerides metabolism,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/acylglycerides_metabolism
+group3,"Alanine, aspartate and glutamate metabolism",dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/alanine_aspartate_and_glutamate_metabolism
+group4,Alkaloids biosynthesis,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/alkaloids_biosynthesis
+group5,Amino sugar and nucleotide sugar metabolism,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/amino_sugar_and_nucleotide_sugar_metabolism
+group6,Aminoacyl-tRNA biosynthesis,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/aminoacyl-trna_biosynthesis
+group7,Androgen metabolism,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/androgen_metabolism
+group8,Arachidonic acid metabolism,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/arachidonic_acid_metabolism
+group9,Arginine and proline metabolism,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/arginine_and_proline_metabolism
+group10,Artificial reactions,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/artificial_reactions
+group11,Ascorbate and aldarate metabolism,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/ascorbate_and_aldarate_metabolism
+group12,Beta oxidation of branched-chain fatty acids (mitochondrial),dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/beta_oxidation_of_branched-chain_fatty_acids_(mitochondrial)
+group13,Beta oxidation of di-unsaturated fatty acids (n-6) (mitochondrial),dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/beta_oxidation_of_di-unsaturated_fatty_acids_(n-6)_(mitochondrial)
+group14,Beta oxidation of di-unsaturated fatty acids (n-6) (peroxisomal),dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/beta_oxidation_of_di-unsaturated_fatty_acids_(n-6)_(peroxisomal)
+group15,Beta oxidation of even-chain fatty acids (mitochondrial),dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/beta_oxidation_of_even-chain_fatty_acids_(mitochondrial)
+group16,Beta oxidation of even-chain fatty acids (peroxisomal),dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/beta_oxidation_of_even-chain_fatty_acids_(peroxisomal)
+group17,Beta oxidation of odd-chain fatty acids (mitochondrial),dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/beta_oxidation_of_odd-chain_fatty_acids_(mitochondrial)
+group18,Beta oxidation of odd-chain fatty acids (peroxisomal),dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/beta_oxidation_of_odd-chain_fatty_acids_(peroxisomal)
+group19,Beta oxidation of phytanic acid (peroxisomal),dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/beta_oxidation_of_phytanic_acid_(peroxisomal)
+group20,Beta oxidation of poly-unsaturated fatty acids (mitochondrial),dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/beta_oxidation_of_poly-unsaturated_fatty_acids_(mitochondrial)
+group21,Beta oxidation of unsaturated fatty acids (n-7) (mitochondrial),dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/beta_oxidation_of_unsaturated_fatty_acids_(n-7)_(mitochondrial)
+group22,Beta oxidation of unsaturated fatty acids (n-7) (peroxisomal),dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/beta_oxidation_of_unsaturated_fatty_acids_(n-7)_(peroxisomal)
+group23,Beta oxidation of unsaturated fatty acids (n-9) (mitochondrial),dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/beta_oxidation_of_unsaturated_fatty_acids_(n-9)_(mitochondrial)
+group24,Beta oxidation of unsaturated fatty acids (n-9) (peroxisomal),dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/beta_oxidation_of_unsaturated_fatty_acids_(n-9)_(peroxisomal)
+group25,Beta-alanine metabolism,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/beta-alanine_metabolism
+group26,Bile acid biosynthesis,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/bile_acid_biosynthesis
+group27,Bile acid recycling,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/bile_acid_recycling
+group28,Biopterin metabolism,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/biopterin_metabolism
+group29,Biotin metabolism,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/biotin_metabolism
+group30,Blood group biosynthesis,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/blood_group_biosynthesis
+group31,Butanoate metabolism,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/butanoate_metabolism
+group32,C5-branched dibasic acid metabolism,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/c5-branched_dibasic_acid_metabolism
+group33,Carnitine shuttle (cytosolic),dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/carnitine_shuttle_(cytosolic)
+group34,Carnitine shuttle (endoplasmic reticular),dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/carnitine_shuttle_(endoplasmic_reticular)
+group35,Carnitine shuttle (mitochondrial),dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/carnitine_shuttle_(mitochondrial)
+group36,Carnitine shuttle (peroxisomal),dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/carnitine_shuttle_(peroxisomal)
+group37,Cholesterol biosynthesis 1 (Bloch pathway) ,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/cholesterol_biosynthesis_1_(bloch_pathway)_
+group38,Cholesterol biosynthesis 2,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/cholesterol_biosynthesis_2
+group39,Cholesterol biosynthesis 3 (Kandustch-Russell pathway),dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/cholesterol_biosynthesis_3_(kandustch-russell_pathway)
+group40,Cholesterol metabolism,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/cholesterol_metabolism
+group41,Chondroitin / heparan sulfate biosynthesis,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/chondroitin_/_heparan_sulfate_biosynthesis
+group42,Chondroitin sulfate degradation,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/chondroitin_sulfate_degradation
+group43,CoA catabolism,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/coa_catabolism
+group44,CoA synthesis,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/coa_synthesis
+group45,Cysteine and methionine metabolism,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/cysteine_and_methionine_metabolism
+group46,Dietary fiber binding,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/dietary_fiber_binding
+group47,Drug metabolism,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/drug_metabolism
+group48,Eicosanoid metabolism,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/eicosanoid_metabolism
+group49,Estrogen metabolism,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/estrogen_metabolism
+group50,Ether lipid metabolism,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/ether_lipid_metabolism
+group51,Exchange/demand reactions,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/exchange/demand_reactions
+group52,Fatty acid activation (cytosolic),dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/fatty_acid_activation_(cytosolic)
+group53,Fatty acid activation (endoplasmic reticular),dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/fatty_acid_activation_(endoplasmic_reticular)
+group54,Fatty acid biosynthesis,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/fatty_acid_biosynthesis
+group55,Fatty acid biosynthesis (even-chain),dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/fatty_acid_biosynthesis_(even-chain)
+group56,Fatty acid biosynthesis (odd-chain),dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/fatty_acid_biosynthesis_(odd-chain)
+group57,Fatty acid biosynthesis (unsaturated),dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/fatty_acid_biosynthesis_(unsaturated)
+group58,Fatty acid desaturation (even-chain),dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/fatty_acid_desaturation_(even-chain)
+group59,Fatty acid desaturation (odd-chain),dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/fatty_acid_desaturation_(odd-chain)
+group60,Fatty acid elongation (even-chain),dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/fatty_acid_elongation_(even-chain)
+group61,Fatty acid elongation (odd-chain),dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/fatty_acid_elongation_(odd-chain)
+group62,Fatty acid oxidation,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/fatty_acid_oxidation
+group63,Folate metabolism,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/folate_metabolism
+group64,Formation and hydrolysis of cholesterol esters,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/formation_and_hydrolysis_of_cholesterol_esters
+group65,Fructose and mannose metabolism,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/fructose_and_mannose_metabolism
+group66,Galactose metabolism,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/galactose_metabolism
+group67,Glucocorticoid biosynthesis,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/glucocorticoid_biosynthesis
+group68,Glutathione metabolism,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/glutathione_metabolism
+group69,Glycerolipid metabolism,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/glycerolipid_metabolism
+group70,Glycerophospholipid metabolism,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/glycerophospholipid_metabolism
+group71,"Glycine, serine and threonine metabolism",dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/glycine_serine_and_threonine_metabolism
+group72,Glycolysis / Gluconeogenesis,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/glycolysis_/_gluconeogenesis
+group73,Glycosphingolipid biosynthesis-ganglio series,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/glycosphingolipid_biosynthesis-ganglio_series
+group74,Glycosphingolipid biosynthesis-globo series,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/glycosphingolipid_biosynthesis-globo_series
+group75,Glycosphingolipid biosynthesis-lacto and neolacto series,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/glycosphingolipid_biosynthesis-lacto_and_neolacto_series
+group76,Glycosphingolipid metabolism,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/glycosphingolipid_metabolism
+group77,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/glycosylphosphatidylinositol_(gpi)-anchor_biosynthesis
+group78,Heme degradation,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/heme_degradation
+group79,Heme synthesis,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/heme_synthesis
+group80,Heparan sulfate degradation,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/heparan_sulfate_degradation
+group81,Hippurate metabolism,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/hippurate_metabolism
+group82,Histidine metabolism,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/histidine_metabolism
+group83,Inositol phosphate metabolism,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/inositol_phosphate_metabolism
+group84,Isolated,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/isolated
+group85,Keratan sulfate biosynthesis,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/keratan_sulfate_biosynthesis
+group86,Keratan sulfate degradation,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/keratan_sulfate_degradation
+group87,Leukotriene metabolism,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/leukotriene_metabolism
+group88,Linoleate metabolism,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/linoleate_metabolism
+group89,Lipoic acid metabolism,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/lipoic_acid_metabolism
+group90,Lysine metabolism,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/lysine_metabolism
+group91,Metabolism of other amino acids,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/metabolism_of_other_amino_acids
+group92,Miscellaneous,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/miscellaneous
+group93,N-glycan metabolism,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/n-glycan_metabolism
+group94,Nicotinate and nicotinamide metabolism,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/nicotinate_and_nicotinamide_metabolism
+group95,Nucleotide metabolism,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/nucleotide_metabolism
+group96,O-glycan metabolism,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/o-glycan_metabolism
+group97,Omega-3 fatty acid metabolism,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/omega-3_fatty_acid_metabolism
+group98,Omega-6 fatty acid metabolism,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/omega-6_fatty_acid_metabolism
+group99,Oxidative phosphorylation,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/oxidative_phosphorylation
+group100,Pantothenate and CoA biosynthesis,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/pantothenate_and_coa_biosynthesis
+group101,Pentose and glucuronate interconversions,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/pentose_and_glucuronate_interconversions
+group102,Pentose phosphate pathway,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/pentose_phosphate_pathway
+group103,Peptide metabolism,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/peptide_metabolism
+group104,Phenylalanine metabolism,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/phenylalanine_metabolism
+group105,"Phenylalanine, tyrosine and tryptophan biosynthesis",dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/phenylalanine_tyrosine_and_tryptophan_biosynthesis
+group106,Phosphatidylinositol phosphate metabolism,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/phosphatidylinositol_phosphate_metabolism
+group107,Pool reactions,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/pool_reactions
+group108,Porphyrin metabolism,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/porphyrin_metabolism
+group109,Propanoate metabolism,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/propanoate_metabolism
+group110,Prostaglandin biosynthesis,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/prostaglandin_biosynthesis
+group111,Protein assembly,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/protein_assembly
+group112,Protein degradation,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/protein_degradation
+group113,Protein modification,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/protein_modification
+group114,Purine metabolism,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/purine_metabolism
+group115,Pyrimidine metabolism,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/pyrimidine_metabolism
+group116,Pyruvate metabolism,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/pyruvate_metabolism
+group117,ROS detoxification,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/ros_detoxification
+group118,Retinol metabolism,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/retinol_metabolism
+group119,Riboflavin metabolism,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/riboflavin_metabolism
+group120,Serotonin and melatonin biosynthesis,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/serotonin_and_melatonin_biosynthesis
+group121,Sphingolipid metabolism,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/sphingolipid_metabolism
+group122,Starch and sucrose metabolism,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/starch_and_sucrose_metabolism
+group123,Steroid metabolism,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/steroid_metabolism
+group124,Sulfur metabolism,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/sulfur_metabolism
+group125,Terpenoid backbone biosynthesis,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/terpenoid_backbone_biosynthesis
+group126,Thiamine metabolism,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/thiamine_metabolism
+group127,Transport reactions,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/transport_reactions
+group128,Triacylglycerol synthesis,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/triacylglycerol_synthesis
+group129,Tricarboxylic acid cycle and glyoxylate/dicarboxylate metabolism,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/tricarboxylic_acid_cycle_and_glyoxylate/dicarboxylate_metabolism
+group130,Tryptophan metabolism,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/tryptophan_metabolism
+group131,Tyrosine metabolism,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/tyrosine_metabolism
+group132,Ubiquinone synthesis,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/ubiquinone_synthesis
+group133,Urea cycle,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/urea_cycle
+group134,"Valine, leucine, and isoleucine metabolism",dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/valine_leucine_and_isoleucine_metabolism
+group135,Vitamin A metabolism,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/vitamin_a_metabolism
+group136,Vitamin B12 metabolism,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/vitamin_b12_metabolism
+group137,Vitamin B2 metabolism,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/vitamin_b2_metabolism
+group138,Vitamin B6 metabolism,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/vitamin_b6_metabolism
+group139,Vitamin C metabolism,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/vitamin_c_metabolism
+group140,Vitamin D metabolism,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/vitamin_d_metabolism
+group141,Vitamin E metabolism,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/vitamin_e_metabolism
+group142,Xenobiotics metabolism,dcs:HierachyTypeEnumPartonomy,"""SBO:0000633""",bio/xenobiotics_metabolism
