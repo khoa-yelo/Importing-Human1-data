@@ -73,7 +73,7 @@ This directory stores scripts and data for generating csv files which can be com
 
 Human1 data contains information about the relationships between metabolites, reactions, metabolic subsystems, and proteins/genes involved in reations. 
 
-The gene.tsv file provides information about systems biology ontology term. This new property is in [systemsBiologyOntology.mcf](https://github.com/khoahoang1891999/ISB_project/blob/main/MCF%20files/systemsBiologyOntology.mcf) <br>
+The gene.tsv file provides information about systems biology ontology term. This new property is in [systemsBiologyOntology.mcf](https://github.com/khoahoang1891999/ISB_project/blob/main/MCF%20files/systemsBiologyOntologyTerm.mcf) <br>
 A new class of Metabolite and its associated properties are defined in [Metabolite.mcf](https://github.com/khoahoang1891999/ISB_project/blob/main/MCF%20files/Metabolite.mcf) and [CellularCompartmentEnum.mcf](https://github.com/khoahoang1891999/ISB_project/blob/main/MCF%20files/CellularCompartmentEnum.mcf) <br>
 A new class of Reaction and its associated properties are defined in [Reaction.mcf](https://github.com/khoahoang1891999/ISB_project/blob/main/MCF%20files/Reaction.mcf)<br>
 A new class of MetabolicReactionSubsystem and its associated properties are defined in [MetabolicReactionSubsystems.mcf](https://github.com/khoahoang1891999/ISB_project/blob/main/MCF%20files/MetabolicReactionSubsystems.mcf) and [HierachyTypeEnum.mcf](https://github.com/khoahoang1891999/ISB_project/blob/main/MCF%20files/HierachyTypeEnum.mcf) <br>
