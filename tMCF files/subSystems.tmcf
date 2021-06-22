@@ -1,0 +1,7 @@
+Node: E:subSystems->E2
+typeOf: dcs:MetabolicReactionSubsystem
+humanGEMID: C:subSystems->id
+name: C:subSystems->name
+hierachyType: C:subSystems->kind
+systemsBiologyTerm: C:subSystems->sboTerm
+dcid: C:subSystems->dcid
