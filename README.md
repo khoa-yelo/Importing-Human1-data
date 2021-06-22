@@ -9,9 +9,9 @@
     4. [Notes and Caveats](#notes-and-caveats)
     5. [License](#license)
 2. [About the Import](#about-the-import)
-    1. [Scripts](#script)
-    2. [tMCF files](#tmcf-files)
-    3. [Example](#test)
+    1. [Scripts](#scripta)
+    2. [tMCF files](#tMCF-files)
+    3. [Example](#example)
     
     
 ## About The Dataset
@@ -98,5 +98,5 @@ To format genes.tsv and geneRoles.tsv, run:
 python format_genes_geneRoles.py "genes.tsv" "geneRoles.tsv"
 ```
 
-The formatted genes.csv and geneRoles.csv will be generated in the current directory. These csv files can be combined with its corressponding tMCF files for dat ingestion to Data Commons.
+The formatted genes.csv and geneRoles.csv will be generated in the current directory. These csv files can be combined with its corressponding tMCF files for data ingestion to Data Commons.
 
