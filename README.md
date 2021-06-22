@@ -74,6 +74,14 @@ This directory stores scripts and data for generating csv files which can be com
 Human1 data contains information about the relationships between metabolites, reactions, metabolic subsystems, and proteins/genes involved in reations. 
 
 The gene.tsv file provides information about systems biology ontology term. This new property is in [systemsBiologyOntology.mcf](./MCF files/systemsBiologyOntology.mcf)
-A new class of Metabolite and its associated properties are defined in [Metabolite.mcf](./MCF files/Metabolite.mcf) and [CellularCompartmentEnum](./MCF files/CellularCompartmentEnum.mcf)
-A new class of Reaction and its associated properties are defined in [Reaction.mcf]
+A new class of Metabolite and its associated properties are defined in [Metabolite.mcf](./MCF files/Metabolite.mcf) and [CellularCompartmentEnum.mcf](./MCF files/CellularCompartmentEnum.mcf)
+A new class of Reaction and its associated properties are defined in [Reaction.mcf](./MCF files/Reaction.mcf)
+A new class of MetabolicReactionSubsystem and its associated properties are defined in [MetabolicReactionSubsystems.mcf](./MCF files/MetabolicReactionSubsystems.mcf) and ["HierachyTypeEnum.mcf](./MCF files/Reaction.mcf)
+
+Relationship between genes and reactions is defined in [geneRole.mcf](./MCF files/geneRole.mcf). Relationship between metabolites and reactions are defined in [productMetabolite.mcf](./MCF files/productMetabolite.mcf) and [reactantMetabolite.mcf](./MCF files/reactantMetabolite.mcf). Relationship between reactions and metabolic subsystems is defined in [memberOfMetabolicReactionSubsystem.mcf](./MCF files/memberOfMetabolicReactionSubsystem.mcf)
+
+# Notes and Caveats
+
+
+
 
