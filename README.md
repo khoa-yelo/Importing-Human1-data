@@ -86,6 +86,9 @@ Relationship between reactions and metabolic subsystems is defined in [memberOfM
 
 # Notes and Caveats
 
+# License
+
+Information about License can be found [here](https://github.com/SysBioChalmers/Human-GEM/blob/master/LICENSE.md)
 
 
 
