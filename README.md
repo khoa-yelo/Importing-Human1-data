@@ -9,9 +9,9 @@
     4. [Notes and Caveats](#notes-and-caveats)
     5. [License](#license)
 2. [About the Import](#about-the-import)
-    1. [Artifacts](#artifacts)
-    2. [Import Procedure](#import-procedure)
-    3. [Test](#test)
+    1. [Scripts](#script)
+    2. [tMCF files](#tmcf-files)
+    3. [Example](#test)
     
     
 ## About The Dataset
@@ -91,3 +91,13 @@ Information about License can be found [here](https://github.com/SysBioChalmers/
 |[reactantRoles.tmcf](https://github.com/khoahoang1891999/ISB_project/blob/main/tMCF%20files/reactantRoles.tmcf)| combine with reactantRoles.csv for ingestion  |
 |[productRoles.tmcf](https://github.com/khoahoang1891999/ISB_project/blob/main/tMCF%20files/productRoles.tmcf)| combine with productRoles.csv for ingestion  |
 |[groupMemberships.tmcf](https://github.com/khoahoang1891999/ISB_project/blob/main/tMCF%20files/groupMemberships.tmcf)| combine with groupMemberships.csv for ingestion  |
+
+##### Example 
+
+To format genes.tsv and geneRoles.tsv, run:
+```bash
+python format_genes_geneRoles "genes.tsv" "geneRoles.tsv"
+```
+
+The formatted genes.csv and geneRoles.csv will be generated in the current directory. These csv files can be combined with its corressponding tMCF files for dat ingestion to Data Commons.
+
