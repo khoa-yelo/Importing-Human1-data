@@ -1,22 +1,22 @@
-"id,name,compartment,chemicalFormula,bigg.metabolite,chebi,chembl,kegg.compound,metanetx.chemical,hmdb,pubchem.compound,lipidmaps,dcid"
-"m00001c,""""""(-)-trans-carveol"""""",dcs:CellularCompartmentCytosol,C10H16O,carveol,""""""CHEBI:15389"""""",CHEMBL1907992,C00964,MNXM45735,,,,bio/CHEMBL1907992"
-"m00001s,""""""(-)-trans-carveol"""""",dcs:CellularCompartmentExtracellular,C10H16O,carveol,""""""CHEBI:15389"""""",CHEMBL1907992,C00964,MNXM45735,,,,bio/CHEMBL1907992"
-"m00002c,""""""(+)-alpha-pinene"""""",dcs:CellularCompartmentCytosol,C10H16,appnn,""""""CHEBI:36740"""""",CHEMBL442565,C09880,MNXM163755,HMDB06525,6654,,bio/CHEMBL442565"
-"m00002s,""""""(+)-alpha-pinene"""""",dcs:CellularCompartmentExtracellular,C10H16,appnn,""""""CHEBI:36740"""""",CHEMBL442565,C09880,MNXM163755,HMDB06525,6654,,bio/CHEMBL442565"
-"m00003c,""""""(10Z)-heptadecenoic acid"""""",dcs:CellularCompartmentCytosol,C17H31O2,,,,,MNXM150165,,,LMFA01030283,bio/C17H31O2"
-"m00003l,""""""(10Z)-heptadecenoic acid"""""",dcs:CellularCompartmentLysosome,C17H31O2,,,,,MNXM150165,,,LMFA01030283,bio/C17H31O2"
-"m00003r,""""""(10Z)-heptadecenoic acid"""""",dcs:CellularCompartmentEndoplasmicReticulum,C17H31O2,,,,,MNXM150165,,,LMFA01030283,bio/C17H31O2"
-"m00003s,""""""(10Z)-heptadecenoic acid"""""",dcs:CellularCompartmentExtracellular,C17H31O2,,,,,MNXM150165,,,LMFA01030283,bio/C17H31O2"
-"m00004c,""""""(10Z)-heptadecenoyl-CoA"""""",dcs:CellularCompartmentCytosol,C38H62N7O17P3S,,,,,MNXM148601,,,,bio/C38H62N7O17P3S"
-"m00004m,""""""(10Z)-heptadecenoyl-CoA"""""",dcs:CellularCompartmentMitochondria,C38H62N7O17P3S,,,,,MNXM148601,,,,bio/C38H62N7O17P3S"
-"m00004r,""""""(10Z)-heptadecenoyl-CoA"""""",dcs:CellularCompartmentEndoplasmicReticulum,C38H62N7O17P3S,,,,,MNXM148601,,,,bio/C38H62N7O17P3S"
-"m00005c,""""""(11R)-HPETE"""""",dcs:CellularCompartmentCytosol,C20H31O4,,,,,MNXM9658,,,LMFA03060071,bio/C20H31O4"
-"m00006c,""""""(11Z)-docosenoyl-CoA"""""",dcs:CellularCompartmentCytosol,C43H72N7O17P3S,,,,,,,,,bio/C43H72N7O17P3S"
-"m00006m,""""""(11Z)-docosenoyl-CoA"""""",dcs:CellularCompartmentMitochondria,C43H72N7O17P3S,,,,,,,,,bio/C43H72N7O17P3S"
-"m00006r,""""""(11Z)-docosenoyl-CoA"""""",dcs:CellularCompartmentEndoplasmicReticulum,C43H72N7O17P3S,,,,,,,,,bio/C43H72N7O17P3S"
-"m00007c,""""""(11Z)-eicosenoyl-CoA"""""",dcs:CellularCompartmentCytosol,C41H68N7O17P3S,,,,,MNXM11852,,,LMFA07050056,bio/C41H68N7O17P3S"
-"m00007m,""""""(11Z)-eicosenoyl-CoA"""""",dcs:CellularCompartmentMitochondria,C41H68N7O17P3S,,,,,MNXM11852,,,LMFA07050056,bio/C41H68N7O17P3S"
-"m00007p,""""""(11Z)-eicosenoyl-CoA"""""",dcs:CellularCompartmentPeroxisome,C41H68N7O17P3S,,,,,MNXM11852,,,LMFA07050056,bio/C41H68N7O17P3S"
-"m00007r,""""""(11Z)-eicosenoyl-CoA"""""",dcs:CellularCompartmentEndoplasmicReticulum,C41H68N7O17P3S,,,,,MNXM11852,,,LMFA07050056,bio/C41H68N7O17P3S"
-"m00008c,""""""(11Z,14Z)-eicosadienoic acid"""""",dcs:CellularCompartmentCytosol,C20H35O2,,,,C16525,MNXM11473,,,LMFA01030130,bio/C20H35O2"
-"m00008l,""""""(11Z,14Z)-eicosadienoic acid"""""",dcs:CellularCompartmentLysosome,C20H35O2,,,,C16525,MNXM11473,,,LMFA01030130,bio/C20H35O2"
+id,name,compartment,chemicalFormula,bigg.metabolite,chebi,chembl,kegg.compound,metanetx.chemical,hmdb,pubchem.compound,lipidmaps,dcid
+m00001c,"""(-)-trans-carveol""",dcs:CellularCompartmentCytosol,C10H16O,carveol,"""CHEBI:15389""",CHEMBL1907992,C00964,MNXM45735,,,,bio/CHEMBL1907992
+m00001s,"""(-)-trans-carveol""",dcs:CellularCompartmentExtracellular,C10H16O,carveol,"""CHEBI:15389""",CHEMBL1907992,C00964,MNXM45735,,,,bio/CHEMBL1907992
+m00002c,"""(+)-alpha-pinene""",dcs:CellularCompartmentCytosol,C10H16,appnn,"""CHEBI:36740""",CHEMBL442565,C09880,MNXM163755,HMDB06525,6654.0,,bio/CHEMBL442565
+m00002s,"""(+)-alpha-pinene""",dcs:CellularCompartmentExtracellular,C10H16,appnn,"""CHEBI:36740""",CHEMBL442565,C09880,MNXM163755,HMDB06525,6654.0,,bio/CHEMBL442565
+m00003c,"""(10Z)-heptadecenoic acid""",dcs:CellularCompartmentCytosol,C17H31O2,,,,,MNXM150165,,,LMFA01030283,bio/C17H31O2
+m00003l,"""(10Z)-heptadecenoic acid""",dcs:CellularCompartmentLysosome,C17H31O2,,,,,MNXM150165,,,LMFA01030283,bio/C17H31O2
+m00003r,"""(10Z)-heptadecenoic acid""",dcs:CellularCompartmentEndoplasmicReticulum,C17H31O2,,,,,MNXM150165,,,LMFA01030283,bio/C17H31O2
+m00003s,"""(10Z)-heptadecenoic acid""",dcs:CellularCompartmentExtracellular,C17H31O2,,,,,MNXM150165,,,LMFA01030283,bio/C17H31O2
+m00004c,"""(10Z)-heptadecenoyl-CoA""",dcs:CellularCompartmentCytosol,C38H62N7O17P3S,,,,,MNXM148601,,,,bio/C38H62N7O17P3S
+m00004m,"""(10Z)-heptadecenoyl-CoA""",dcs:CellularCompartmentMitochondria,C38H62N7O17P3S,,,,,MNXM148601,,,,bio/C38H62N7O17P3S
+m00004r,"""(10Z)-heptadecenoyl-CoA""",dcs:CellularCompartmentEndoplasmicReticulum,C38H62N7O17P3S,,,,,MNXM148601,,,,bio/C38H62N7O17P3S
+m00005c,"""(11R)-HPETE""",dcs:CellularCompartmentCytosol,C20H31O4,,,,,MNXM9658,,,LMFA03060071,bio/C20H31O4
+m00006c,"""(11Z)-docosenoyl-CoA""",dcs:CellularCompartmentCytosol,C43H72N7O17P3S,,,,,,,,,bio/C43H72N7O17P3S
+m00006m,"""(11Z)-docosenoyl-CoA""",dcs:CellularCompartmentMitochondria,C43H72N7O17P3S,,,,,,,,,bio/C43H72N7O17P3S
+m00006r,"""(11Z)-docosenoyl-CoA""",dcs:CellularCompartmentEndoplasmicReticulum,C43H72N7O17P3S,,,,,,,,,bio/C43H72N7O17P3S
+m00007c,"""(11Z)-eicosenoyl-CoA""",dcs:CellularCompartmentCytosol,C41H68N7O17P3S,,,,,MNXM11852,,,LMFA07050056,bio/C41H68N7O17P3S
+m00007m,"""(11Z)-eicosenoyl-CoA""",dcs:CellularCompartmentMitochondria,C41H68N7O17P3S,,,,,MNXM11852,,,LMFA07050056,bio/C41H68N7O17P3S
+m00007p,"""(11Z)-eicosenoyl-CoA""",dcs:CellularCompartmentPeroxisome,C41H68N7O17P3S,,,,,MNXM11852,,,LMFA07050056,bio/C41H68N7O17P3S
+m00007r,"""(11Z)-eicosenoyl-CoA""",dcs:CellularCompartmentEndoplasmicReticulum,C41H68N7O17P3S,,,,,MNXM11852,,,LMFA07050056,bio/C41H68N7O17P3S
+m00008c,"""(11Z,14Z)-eicosadienoic acid""",dcs:CellularCompartmentCytosol,C20H35O2,,,,C16525,MNXM11473,,,LMFA01030130,bio/C20H35O2
+m00008l,"""(11Z,14Z)-eicosadienoic acid""",dcs:CellularCompartmentLysosome,C20H35O2,,,,C16525,MNXM11473,,,LMFA01030130,bio/C20H35O2
