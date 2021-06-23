@@ -1,0 +1,153 @@
+#Entities
+Node: dcid:Metabolite
+name: "Metabolite"
+typeOf: schema: Class 
+subClassOf: dcs:ChemicalCompound 
+description: "Metabolites participate in biochemical reactions"
+
+Node: dcid:MetabolicReaction
+name: "MetabolicReaction"
+typeOf: schema:Class
+description: "Metabolic reactions"
+
+Node: dcid:MetabolicReactionSubsystem
+name: "MetabolicReactionSubsystem"
+typeOf: schema:Class
+description: "Metabolic Reaction Subsystem"
+
+#Properties 
+Node: dcid:humanGEMID
+name: "humanGEMID"
+typeOf: schema:Property 
+rangeIncludes: schema:Text 
+domainIncludes: dcs:Metabolite, dcs:MetabolicReaction, dcs:MetabolicReactionSubsystem
+description: "Human Genome-scale metabolic Model ID"
+
+Node: dcid: cellularCompartment
+name: "cellularCompartment"
+typeOf: schema:Property 
+rangeIncludes: schema:CellularCompartmentEnum
+domainIncludes: dcs: Metabolite 
+description: "Human Genome-scale metabolic Model ID"
+
+Node: dcid:chemicalFormula
+name: "chemicalFormula"
+typeOf: schema:Property 
+rangeIncludes: schema:Text
+domainIncludes: dcs:ChemicalCompound 
+description: "Chemical Formula"
+
+Node: dcid:biggID
+name: "biggID"
+typeOf: schema:Property 
+rangeIncludes: schema:Text
+domainIncludes: dcs:Metabolite, dcs:MetabolicReaction
+description: "BiGG Models is a knowledgebase of genome-scale metabolic network reconstructions. It is hosted and maintained by the Systems Biology Research Group at the University of California, San Diego."
+descriptionUrl: "http://bigg.ucsd.edu/"
+
+Node: dcid:metaNetXID
+name: "metanetxID"
+typeOf: schema:Property 
+rangeIncludes: schema:Text
+domainIncludes: dcs:Metabolite, dcs:MetabolicReaction
+description: "MetaNetX/MNXref is a reconciliation of metabolites and biochemical reactions providing cross-links between major public biochemistry and Genome-Scale Metabolic Network (GSMN) databases."
+descriptionUrl: "https://academic.oup.com/nar/article/49/D1/D570/5958493"
+
+Node: dcid:lipidMapsID
+name: "lipidMapsID"
+typeOf: schema:Property 
+rangeIncludes: schema:Text
+domainIncludes: dcs:Metabolite, dcs:MetabolicReaction
+description: "LIPID MAPS® Lipidomics Gateway was created in 2003 via an NIH “Glue Grant” to provide access to lipid nomenclature, databases, tools, protocols, standards, tutorials, meetings, publications, and other resources and serving the international lipid research community."
+descriptionUrl: "https://www.lipidmaps.org/"
+
+Node: dcid:reversibleReaction
+name: "reversibleReaction"
+typeOf: schema:Property
+rangeIncludes: schema:Text
+domainIncludes: dcs:MetabolicReaction
+description: "Indicate wheather a reaction is reversible"
+
+Node: dcid:fastReaction
+name: "fastReaction"
+typeOf: schema:Property
+rangeIncludes: schema:Text
+domainIncludes: dcs:MetabolicReaction
+description: 
+
+Node: dcid:metabolicFluxRange
+name: "metabolicFluxRange"
+typeOf: schema:Property
+rangeIncludes: dcs:QuantityRange
+domainIncludes: dcs:MetabolicReaction
+description:
+
+Node: dcid:enzymeCommissionNumber
+name: "enzymeCommissionNumber"
+typeOf: schema:Property
+rangeIncludes: schema:Text
+domainIncludes: dcs:MetabolicReaction
+description: "The Enzyme Commission number (EC number) is a numerical classification scheme for enzymes, based on the chemical reactions they catalyze"
+
+Node: dcid:keggReactionID
+name: "keggReactionID"
+typeOf: schema: Property
+rangeIncludes: schema: Text
+domainIncludes: dcs:MetabolicReaction
+description: 
+
+Node: dcid:reactomeID
+name: "reactomeID"
+typeOf: schema: Property
+rangeIncludes: schema: Text
+domainIncludes: dcs:MetabolicReaction
+description: "Reactome identifier. REACTOME is an open-source, open access, manually curated and peer-reviewed pathway database."
+descriptionUrl: "https://reactome.org/"
+
+Node: dcid:transporterClassificationDatabaseID
+name: "transporterClassificationDatabaseID"
+typeOf: schema: Property
+rangeIncludes: schema: Text
+domainIncludes: dcs:MetabolicReaction
+description: "The database details a comprehensive IUBMB approved classification system for membrane transport proteins known as the Transporter Classification (TC) system. The TC system is analogous to the Enzyme Commission (EC) system for classification of enzymes, except that it incorporates both functional and phylogenetic information"
+descriptionUrl: "https://www.tcdb.org/"
+
+Node: dcid:hierachyType
+name: "hierachyType"
+typeOf: schema:Property 
+rangeIncludes: dcs:hierachyTypeEnum 
+domainIncludes: dcs:MetabolicReactionSubsystem
+description: "Classification system"
+
+Node: dcid:geneRole
+name: "geneRole"
+typeOf: schema:Property
+rangeIncludes: dcs:MetabolicReaction
+domainIncludes: dcs:Gene
+description: "Gene product participate in certain activities"
+
+Node: dcid:memberOfMetabolicReactionSubsystem
+name: "memberOfMetabolicReactionSubsystem"
+typeOf: schema:Property
+rangeIncludes: dcs:MetabolicReactionSubsystem
+domainIncludes: dcs:MetabolicReaction 
+description:"Member Of Metabolic Reaction Subsystem"
+
+Node: dcid:productMetabolite
+name: "productMetabolite"
+typeOf: schema:Property 
+rangeIncludes: dcs:Metabolite
+domainIncludes: dcs:MetabolicReaction
+description: "Products of the reaction"
+
+Node: dcid:reactantMetabolite
+name: "reactantMetabolite"
+typeOf: schema:Property 
+rangeIncludes: dcs:Metabolite
+domainIncludes: dcs:MetabolicReaction
+description: "Reactants of the reaction"
+
+Node: dcid:systemsBiologyOntologyTerm
+typeOf: dcs:Property
+domainIncludes: dcs:Gene, dcs:MetabolicReactionSubsystem
+rangeIncludes: schema:Text
