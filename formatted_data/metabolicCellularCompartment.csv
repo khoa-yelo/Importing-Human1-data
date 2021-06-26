@@ -5557,7 +5557,7 @@ m01288m,dcs:CellularCompartmentMitochondria,bio/CHEMBL2360089,bio/m01288m
 m02845m,dcs:CellularCompartmentMitochondria,bio/MNXM116,bio/m02845m
 m00119p,dcs:CellularCompartmentPeroxisome,bio/MNXM90397,bio/m00119p
 alpa_hs_c,dcs:CellularCompartmentCytosol,bio/MNXM163842,bio/alpa_hs_c
-alkylR1oh_p,dcs:CellularCompartmentPeroxisome,bio/MNXM18595,bio/alkylR1oh_p
+alkylR1oh_p,dcs:CellularCompartmentPeroxisome,bio/MNXM18595,bio/alkylr1oh_p
 m00564c,dcs:CellularCompartmentCytosol,bio/MNXM1947,bio/m00564c
 m02766c,dcs:CellularCompartmentCytosol,bio/CHEMBL1316599,bio/m02766c
 m01984c,dcs:CellularCompartmentCytosol,bio/CHEMBL1229937,bio/m01984c
@@ -5618,7 +5618,7 @@ m00350n,dcs:CellularCompartmentNucleus,bio/CHEMBL547,bio/m00350n
 m01006n,dcs:CellularCompartmentNucleus,bio/CHEMBL1329343,bio/m01006n
 melanin_c,dcs:CellularCompartmentCytosol,bio/MNXM92454,bio/melanin_c
 m01026n,dcs:CellularCompartmentNucleus,bio/MNXM37697,bio/m01026n
-Ser_Thr_l,dcs:CellularCompartmentLysosome,bio/MNXM147296,bio/Ser_Thr_l
+Ser_Thr_l,dcs:CellularCompartmentLysosome,bio/MNXM147296,bio/ser_thr_l
 m01706p,dcs:CellularCompartmentPeroxisome,bio/CHEMBL343480,bio/m01706p
 m01953p,dcs:CellularCompartmentPeroxisome,bio/CHEMBL41342,bio/m01953p
 dmhptcoa_m,dcs:CellularCompartmentMitochondria,bio/MNXM8044,bio/dmhptcoa_m
@@ -5642,7 +5642,7 @@ etfrd_m,dcs:CellularCompartmentMitochondria,bio/MNXM11480,bio/etfrd_m
 9_cis_retfa_s,dcs:CellularCompartmentExtracellular,bio/MNXM146565,bio/9_cis_retfa_s
 fucfuc12gal14acglcgalgluside_hs_s,dcs:CellularCompartmentExtracellular,bio/MNXM8840,bio/fucfuc12gal14acglcgalgluside_hs_s
 fucfucgalacglcgalgluside_hs_s,dcs:CellularCompartmentExtracellular,bio/MNXM8835,bio/fucfucgalacglcgalgluside_hs_s
-glyc_S_s,dcs:CellularCompartmentExtracellular,bio/(S)-Glycerate,bio/glyc_S_s
+glyc_S_s,dcs:CellularCompartmentExtracellular,bio/(S)-Glycerate,bio/glyc_s_s
 glygn5_s,dcs:CellularCompartmentExtracellular,bio/MNXM11717,bio/glygn5_s
 m00656s,dcs:CellularCompartmentExtracellular,bio/MNXM5213,bio/m00656s
 m02715s,dcs:CellularCompartmentExtracellular,bio/MNXM9017,bio/m02715s
@@ -5654,20 +5654,20 @@ xolest_hs_s,dcs:CellularCompartmentExtracellular,bio/MNXM90954,bio/xolest_hs_s
 m01446s,dcs:CellularCompartmentExtracellular,bio/MNXM39201,bio/m01446s
 m01447s,dcs:CellularCompartmentExtracellular,bio/MNXM163608,bio/m01447s
 m01448s,dcs:CellularCompartmentExtracellular,bio/MNXM162781,bio/m01448s
-tdeACP_c,dcs:CellularCompartmentCytosol,bio/MNXM162426,bio/tdeACP_c
-hdeACP_c,dcs:CellularCompartmentCytosol,bio/MNXM89949,bio/hdeACP_c
-ocdcaACP_c,dcs:CellularCompartmentCytosol,bio/MNXM3075,bio/ocdcaACP_c
-octeACP_c,dcs:CellularCompartmentCytosol,bio/MNXM89950,bio/octeACP_c
-lnlcACP_c,dcs:CellularCompartmentCytosol,bio/MNXM19075,bio/lnlcACP_c
-lneldcACP_c,dcs:CellularCompartmentCytosol,bio/MNXM19074,bio/lneldcACP_c
-ocdcyaACP_c,dcs:CellularCompartmentCytosol,bio/MNXM5248,bio/ocdcyaACP_c
+tdeACP_c,dcs:CellularCompartmentCytosol,bio/MNXM162426,bio/tdeacp_c
+hdeACP_c,dcs:CellularCompartmentCytosol,bio/MNXM89949,bio/hdeacp_c
+ocdcaACP_c,dcs:CellularCompartmentCytosol,bio/MNXM3075,bio/ocdcaacp_c
+octeACP_c,dcs:CellularCompartmentCytosol,bio/MNXM89950,bio/octeacp_c
+lnlcACP_c,dcs:CellularCompartmentCytosol,bio/MNXM19075,bio/lnlcacp_c
+lneldcACP_c,dcs:CellularCompartmentCytosol,bio/MNXM19074,bio/lneldcacp_c
+ocdcyaACP_c,dcs:CellularCompartmentCytosol,bio/MNXM5248,bio/ocdcyaacp_c
 ocdcya_c,dcs:CellularCompartmentCytosol,bio/MNXM4069,bio/ocdcya_c
 pristcoa_c,dcs:CellularCompartmentCytosol,bio/MNXM7699,bio/pristcoa_c
 phyt_c,dcs:CellularCompartmentCytosol,bio/MNXM91275,bio/phyt_c
 octd11ecoa_m,dcs:CellularCompartmentMitochondria,bio/11-Octadecenoyl Coenzyme A,bio/octd11ecoa_m
 m00108p,dcs:CellularCompartmentPeroxisome,bio/MNXM3361,bio/m00108p
 m00103p,dcs:CellularCompartmentPeroxisome,bio/MNXM1449,bio/m00103p
-tag1p_D_c,dcs:CellularCompartmentCytosol,bio/MNXM11293,bio/tag1p_D_c
+tag1p_D_c,dcs:CellularCompartmentCytosol,bio/MNXM11293,bio/tag1p_d_c
 m01806p,dcs:CellularCompartmentPeroxisome,bio/CHEMBL69330,bio/m01806p
 m01806r,dcs:CellularCompartmentEndoplasmicReticulum,bio/CHEMBL69330,bio/m01806r
 fucfuc12gal14acglcgalgluside_hs_c,dcs:CellularCompartmentCytosol,bio/MNXM8840,bio/fucfuc12gal14acglcgalgluside_hs_c
@@ -5675,12 +5675,12 @@ fucfuc12gal14acglcgalgluside_hs_g,dcs:CellularCompartmentGolgiApparatus,bio/MNXM
 fucfucgalacglcgalgluside_hs_c,dcs:CellularCompartmentCytosol,bio/MNXM8835,bio/fucfucgalacglcgalgluside_hs_c
 fucfucgalacglcgalgluside_hs_g,dcs:CellularCompartmentGolgiApparatus,bio/MNXM8835,bio/fucfucgalacglcgalgluside_hs_g
 galgluside_hs_l,dcs:CellularCompartmentLysosome,bio/MNXM90540,bio/galgluside_hs_l
-Ser_Thr_g,dcs:CellularCompartmentGolgiApparatus,bio/MNXM147296,bio/Ser_Thr_g
+Ser_Thr_g,dcs:CellularCompartmentGolgiApparatus,bio/MNXM147296,bio/ser_thr_g
 m00789m,dcs:CellularCompartmentMitochondria,bio/MNXM91413,bio/m00789m
 m01034m,dcs:CellularCompartmentMitochondria,bio/MNXM163683,bio/m01034m
 m01685m,dcs:CellularCompartmentMitochondria,bio/MNXM162962,bio/m01685m
 m01681m,dcs:CellularCompartmentMitochondria,bio/MNXM744,bio/m01681m
-glyc_S_c,dcs:CellularCompartmentCytosol,bio/(S)-Glycerate,bio/glyc_S_c
+glyc_S_c,dcs:CellularCompartmentCytosol,bio/(S)-Glycerate,bio/glyc_s_c
 m_em_3gacpail_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM163845,bio/m_em_3gacpail_r
 m02110m,dcs:CellularCompartmentMitochondria,bio/MNXM1190,bio/m02110m
 m02109m,dcs:CellularCompartmentMitochondria,bio/MNXM56325,bio/m02109m
@@ -5771,8 +5771,8 @@ m02388p,dcs:CellularCompartmentPeroxisome,bio/MNXM8847,bio/m02388p
 m01363p,dcs:CellularCompartmentPeroxisome,bio/MNXM8358,bio/m01363p
 m01747s,dcs:CellularCompartmentExtracellular,bio/CHEMBL259724,bio/m01747s
 m00755c,dcs:CellularCompartmentCytosol,bio/MNXM163354,bio/m00755c
-C02528_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/CHEMBL240597,bio/C02528_r
-C02528_c,dcs:CellularCompartmentCytosol,bio/CHEMBL240597,bio/C02528_c
+C02528_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/CHEMBL240597,bio/c02528_r
+C02528_c,dcs:CellularCompartmentCytosol,bio/CHEMBL240597,bio/c02528_c
 m00726m,dcs:CellularCompartmentMitochondria,bio/MNXM1633,bio/m00726m
 m00727m,dcs:CellularCompartmentMitochondria,bio/MNXM3473,bio/m00727m
 m02137m,dcs:CellularCompartmentMitochondria,bio/CHEMBL1562,bio/m02137m
@@ -5780,22 +5780,22 @@ m00818m,dcs:CellularCompartmentMitochondria,bio/MNXM4183,bio/m00818m
 m00820m,dcs:CellularCompartmentMitochondria,bio/MNXM162904,bio/m00820m
 m03136m,dcs:CellularCompartmentMitochondria,bio/MNXM163196,bio/m03136m
 m02336p,dcs:CellularCompartmentPeroxisome,bio/CHEMBL225111,bio/m02336p
-C02528_s,dcs:CellularCompartmentExtracellular,bio/CHEMBL240597,bio/C02528_s
+C02528_s,dcs:CellularCompartmentExtracellular,bio/CHEMBL240597,bio/c02528_s
 m00755m,dcs:CellularCompartmentMitochondria,bio/MNXM163354,bio/m00755m
 m00968r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM1804,bio/m00968r
 m00051r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM581,bio/m00051r
-HC02097_c,dcs:CellularCompartmentCytosol,bio/MNXM10102,bio/HC02097_c
-HC02098_c,dcs:CellularCompartmentCytosol,bio/MNXM3843,bio/HC02098_c
-HC02099_c,dcs:CellularCompartmentCytosol,bio/MNXM2573,bio/HC02099_c
-HC01988_c,dcs:CellularCompartmentCytosol,bio/MNXM6439,bio/HC01988_c
-CE0692_m,dcs:CellularCompartmentMitochondria,bio/3-Oxolaur-Cis-5-Enoyl Coenzyme A,bio/CE0692_m
-HC02154_c,dcs:CellularCompartmentCytosol,bio/MNXM164821,bio/HC02154_c
-HC02154_s,dcs:CellularCompartmentExtracellular,bio/MNXM164821,bio/HC02154_s
+HC02097_c,dcs:CellularCompartmentCytosol,bio/MNXM10102,bio/hc02097_c
+HC02098_c,dcs:CellularCompartmentCytosol,bio/MNXM3843,bio/hc02098_c
+HC02099_c,dcs:CellularCompartmentCytosol,bio/MNXM2573,bio/hc02099_c
+HC01988_c,dcs:CellularCompartmentCytosol,bio/MNXM6439,bio/hc01988_c
+CE0692_m,dcs:CellularCompartmentMitochondria,bio/3-Oxolaur-Cis-5-Enoyl Coenzyme A,bio/ce0692_m
+HC02154_c,dcs:CellularCompartmentCytosol,bio/MNXM164821,bio/hc02154_c
+HC02154_s,dcs:CellularCompartmentExtracellular,bio/MNXM164821,bio/hc02154_s
 m00270s,dcs:CellularCompartmentExtracellular,bio/CHEMBL4085458,bio/m00270s
-C01241_m,dcs:CellularCompartmentMitochondria,bio/MNXM91270,bio/C01241_m
-C04308_m,dcs:CellularCompartmentMitochondria,bio/MNXM75100,bio/C04308_m
-C01241_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM91270,bio/C01241_r
-C04308_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM75100,bio/C04308_r
+C01241_m,dcs:CellularCompartmentMitochondria,bio/MNXM91270,bio/c01241_m
+C04308_m,dcs:CellularCompartmentMitochondria,bio/MNXM75100,bio/c04308_m
+C01241_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM91270,bio/c01241_r
+C04308_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM75100,bio/c04308_r
 m02938m,dcs:CellularCompartmentMitochondria,bio/CHEMBL46403,bio/m02938m
 m02938p,dcs:CellularCompartmentPeroxisome,bio/CHEMBL46403,bio/m02938p
 m00083c,dcs:CellularCompartmentCytosol,bio/MNXM31120,bio/m00083c
@@ -5841,23 +5841,23 @@ m00737r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM150744,bio/m00737r
 m00829g,dcs:CellularCompartmentGolgiApparatus,bio/MNXM150752,bio/m00829g
 m00828g,dcs:CellularCompartmentGolgiApparatus,bio/MNXM169240,bio/m00828g
 m00829r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM150752,bio/m00829r
-CE2881_c,dcs:CellularCompartmentCytosol,"bio/3,5,3,5-Tetraiodothyroacetate",bio/CE2881_c
-CE2885_c,dcs:CellularCompartmentCytosol,"bio/3,5,3,5-Tetraiodothyroacetate-Beta-D-Glucuronoside",bio/CE2885_c
-CE2881_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM166091,bio/CE2881_r
-CE2885_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM166092,bio/CE2885_r
-CE2882_c,dcs:CellularCompartmentCytosol,"bio/3,3,5-Triiodothyroacetate",bio/CE2882_c
-CE2886_c,dcs:CellularCompartmentCytosol,"bio/3,3,5-Triiodothyroacetate-Beta-D-Glucuronoside",bio/CE2886_c
-CE2882_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM166074,bio/CE2882_r
-CE2886_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM166075,bio/CE2886_r
+CE2881_c,dcs:CellularCompartmentCytosol,"bio/3,5,3,5-Tetraiodothyroacetate",bio/ce2881_c
+CE2885_c,dcs:CellularCompartmentCytosol,"bio/3,5,3,5-Tetraiodothyroacetate-Beta-D-Glucuronoside",bio/ce2885_c
+CE2881_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM166091,bio/ce2881_r
+CE2885_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM166092,bio/ce2885_r
+CE2882_c,dcs:CellularCompartmentCytosol,"bio/3,3,5-Triiodothyroacetate",bio/ce2882_c
+CE2886_c,dcs:CellularCompartmentCytosol,"bio/3,3,5-Triiodothyroacetate-Beta-D-Glucuronoside",bio/ce2886_c
+CE2882_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM166074,bio/ce2882_r
+CE2886_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM166075,bio/ce2886_r
 maltpt_s,dcs:CellularCompartmentExtracellular,bio/MNXM1538,bio/maltpt_s
-CE2883_c,dcs:CellularCompartmentCytosol,"bio/3,5,3-Triiodothyroacetate",bio/CE2883_c
-CE2887_c,dcs:CellularCompartmentCytosol,"bio/3,5,3-Triiodothyroacetate-Beta-D-Glucuronoside",bio/CE2887_c
-CE2883_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM166094,bio/CE2883_r
-CE2887_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM166095,bio/CE2887_r
-CE2884_c,dcs:CellularCompartmentCytosol,"bio/3,5-Diiodothyroacetate",bio/CE2884_c
-CE2888_c,dcs:CellularCompartmentCytosol,"bio/3,5-Diiodothyroacetate-Beta-D-Glucuronoside",bio/CE2888_c
-CE2884_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM166036,bio/CE2884_r
-CE2888_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM166037,bio/CE2888_r
+CE2883_c,dcs:CellularCompartmentCytosol,"bio/3,5,3-Triiodothyroacetate",bio/ce2883_c
+CE2887_c,dcs:CellularCompartmentCytosol,"bio/3,5,3-Triiodothyroacetate-Beta-D-Glucuronoside",bio/ce2887_c
+CE2883_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM166094,bio/ce2883_r
+CE2887_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM166095,bio/ce2887_r
+CE2884_c,dcs:CellularCompartmentCytosol,"bio/3,5-Diiodothyroacetate",bio/ce2884_c
+CE2888_c,dcs:CellularCompartmentCytosol,"bio/3,5-Diiodothyroacetate-Beta-D-Glucuronoside",bio/ce2888_c
+CE2884_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM166036,bio/ce2884_r
+CE2888_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM166037,bio/ce2888_r
 malthx_s,dcs:CellularCompartmentExtracellular,bio/MNXM1317,bio/malthx_s
 m01387s,dcs:CellularCompartmentExtracellular,bio/MNXM163311,bio/m01387s
 m01386s,dcs:CellularCompartmentExtracellular,bio/MNXM152651,bio/m01386s
@@ -5866,22 +5866,22 @@ m02562s,dcs:CellularCompartmentExtracellular,bio/MNXM158696,bio/m02562s
 m01348s,dcs:CellularCompartmentExtracellular,bio/MNXM42305,bio/m01348s
 m01347s,dcs:CellularCompartmentExtracellular,bio/MNXM152293,bio/m01347s
 malthp_s,dcs:CellularCompartmentExtracellular,bio/MNXM61025,bio/malthp_s
-CE1950_c,dcs:CellularCompartmentCytosol,bio/Cyanosulfurous Acid Anion,bio/CE1950_c
+CE1950_c,dcs:CellularCompartmentCytosol,bio/Cyanosulfurous Acid Anion,bio/ce1950_c
 cynt_c,dcs:CellularCompartmentCytosol,bio/MNXM1191,bio/cynt_c
-CE1950_s,dcs:CellularCompartmentExtracellular,bio/Cyanosulfurous Acid Anion,bio/CE1950_s
+CE1950_s,dcs:CellularCompartmentExtracellular,bio/Cyanosulfurous Acid Anion,bio/ce1950_s
 cynt_s,dcs:CellularCompartmentExtracellular,bio/MNXM1191,bio/cynt_s
 m02949l,dcs:CellularCompartmentLysosome,bio/CHEMBL1161699,bio/m02949l
-CE1950_l,dcs:CellularCompartmentLysosome,bio/Cyanosulfurous Acid Anion,bio/CE1950_l
+CE1950_l,dcs:CellularCompartmentLysosome,bio/Cyanosulfurous Acid Anion,bio/ce1950_l
 cynt_l,dcs:CellularCompartmentLysosome,bio/Cyanate,bio/cynt_l
 m02949n,dcs:CellularCompartmentNucleus,bio/CHEMBL1161699,bio/m02949n
-CE1950_n,dcs:CellularCompartmentNucleus,bio/Cyanosulfurous Acid Anion,bio/CE1950_n
+CE1950_n,dcs:CellularCompartmentNucleus,bio/Cyanosulfurous Acid Anion,bio/ce1950_n
 cynt_n,dcs:CellularCompartmentNucleus,bio/Cyanate,bio/cynt_n
 m02573m,dcs:CellularCompartmentMitochondria,bio/CHEMBL407196,bio/m02573m
 m02571m,dcs:CellularCompartmentMitochondria,bio/MNXM165013,bio/m02571m
 m02572m,dcs:CellularCompartmentMitochondria,bio/MNXM64523,bio/m02572m
-CE2891_c,dcs:CellularCompartmentCytosol,bio/MNXM51738,bio/CE2891_c
-CE4753_c,dcs:CellularCompartmentCytosol,bio/MNXM51740,bio/CE4753_c
-CE4754_c,dcs:CellularCompartmentCytosol,bio/MNXM51741,bio/CE4754_c
+CE2891_c,dcs:CellularCompartmentCytosol,bio/MNXM51738,bio/ce2891_c
+CE4753_c,dcs:CellularCompartmentCytosol,bio/MNXM51740,bio/ce4753_c
+CE4754_c,dcs:CellularCompartmentCytosol,bio/MNXM51741,bio/ce4754_c
 m00971m,dcs:CellularCompartmentMitochondria,bio/CHEMBL274826,bio/m00971m
 m00409m,dcs:CellularCompartmentMitochondria,bio/CHEMBL1062,bio/m00409m
 m00408g,dcs:CellularCompartmentGolgiApparatus,bio/CHEMBL408706,bio/m00408g
@@ -5912,18 +5912,18 @@ m00883c,dcs:CellularCompartmentCytosol,bio/MNXM166245,bio/m00883c
 m01110m,dcs:CellularCompartmentMitochondria,bio/MNXM8173,bio/m01110m
 m01183c,dcs:CellularCompartmentCytosol,bio/CHEMBL497207,bio/m01183c
 m01182m,dcs:CellularCompartmentMitochondria,bio/CHEMBL4285345,bio/m01182m
-CE0233_c,dcs:CellularCompartmentCytosol,bio/MNXM151435,bio/CE0233_c
+CE0233_c,dcs:CellularCompartmentCytosol,bio/MNXM151435,bio/ce0233_c
 m01089c,dcs:CellularCompartmentCytosol,bio/MNXM29720,bio/m01089c
 m01085c,dcs:CellularCompartmentCytosol,bio/MNXM28106,bio/m01085c
 m01086c,dcs:CellularCompartmentCytosol,bio/MNXM164359,bio/m01086c
 m01088c,dcs:CellularCompartmentCytosol,bio/MNXM164360,bio/m01088c
-CE0233_m,dcs:CellularCompartmentMitochondria,"bio/5Beta-Cholestane-3Alpha,7Alpha,27-Triol",bio/CE0233_m
+CE0233_m,dcs:CellularCompartmentMitochondria,"bio/5Beta-Cholestane-3Alpha,7Alpha,27-Triol",bio/ce0233_m
 m00763c,dcs:CellularCompartmentCytosol,bio/MNXM163194,bio/m00763c
 m00764c,dcs:CellularCompartmentCytosol,bio/MNXM163195,bio/m00764c
 m00761c,dcs:CellularCompartmentCytosol,bio/MNXM6853,bio/m00761c
 m01180c,dcs:CellularCompartmentCytosol,bio/MNXM164390,bio/m01180c
 m01434m,dcs:CellularCompartmentMitochondria,bio/MNXM834,bio/m01434m
-C02528_m,dcs:CellularCompartmentMitochondria,bio/CHEMBL240597,bio/C02528_m
+C02528_m,dcs:CellularCompartmentMitochondria,bio/CHEMBL240597,bio/c02528_m
 m00614m,dcs:CellularCompartmentMitochondria,bio/MNXM162803,bio/m00614m
 m00570s,dcs:CellularCompartmentExtracellular,bio/MNXM3150,bio/m00570s
 m00921s,dcs:CellularCompartmentExtracellular,bio/CHEMBL460741,bio/m00921s
@@ -5941,19 +5941,19 @@ m00534g,dcs:CellularCompartmentGolgiApparatus,bio/MNXM32836,bio/m00534g
 m00534r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM32836,bio/m00534r
 m02786m,dcs:CellularCompartmentMitochondria,bio/CHEMBL548,bio/m02786m
 m02777m,dcs:CellularCompartmentMitochondria,bio/CHEMBL1084643,bio/m02777m
-CE2953_c,dcs:CellularCompartmentCytosol,"bio/Rac-5,6-Epoxy-Retinoate",bio/CE2953_c
-CE1162_c,dcs:CellularCompartmentCytosol,bio/MNXM169417,bio/CE1162_c
-CE2955_c,dcs:CellularCompartmentCytosol,bio/MNXM40794,bio/CE2955_c
+CE2953_c,dcs:CellularCompartmentCytosol,"bio/Rac-5,6-Epoxy-Retinoate",bio/ce2953_c
+CE1162_c,dcs:CellularCompartmentCytosol,bio/MNXM169417,bio/ce1162_c
+CE2955_c,dcs:CellularCompartmentCytosol,bio/MNXM40794,bio/ce2955_c
 m01314r,dcs:CellularCompartmentEndoplasmicReticulum,bio/CHEMBL207538,bio/m01314r
 m00604r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM8277,bio/m00604r
-CE5775_c,dcs:CellularCompartmentCytosol,bio/MNXM168014,bio/CE5775_c
-CE5776_c,dcs:CellularCompartmentCytosol,bio/MNXM168013,bio/CE5776_c
-CE1297_c,dcs:CellularCompartmentCytosol,bio/MNXM164395,bio/CE1297_c
-CE1294_c,dcs:CellularCompartmentCytosol,bio/MNXM150736,bio/CE1294_c
-CE1297_m,dcs:CellularCompartmentMitochondria,bio/MNXM164395,bio/CE1297_m
-CE1294_m,dcs:CellularCompartmentMitochondria,bio/MNXM150736,bio/CE1294_m
-CE5932_c,dcs:CellularCompartmentCytosol,bio/MNXM164058,bio/CE5932_c
-CE5013_c,dcs:CellularCompartmentCytosol,bio/MNXM165537,bio/CE5013_c
+CE5775_c,dcs:CellularCompartmentCytosol,bio/MNXM168014,bio/ce5775_c
+CE5776_c,dcs:CellularCompartmentCytosol,bio/MNXM168013,bio/ce5776_c
+CE1297_c,dcs:CellularCompartmentCytosol,bio/MNXM164395,bio/ce1297_c
+CE1294_c,dcs:CellularCompartmentCytosol,bio/MNXM150736,bio/ce1294_c
+CE1297_m,dcs:CellularCompartmentMitochondria,bio/MNXM164395,bio/ce1297_m
+CE1294_m,dcs:CellularCompartmentMitochondria,bio/MNXM150736,bio/ce1294_m
+CE5932_c,dcs:CellularCompartmentCytosol,bio/MNXM164058,bio/ce5932_c
+CE5013_c,dcs:CellularCompartmentCytosol,bio/MNXM165537,bio/ce5013_c
 m02315s,dcs:CellularCompartmentExtracellular,bio/MNXM59130,bio/m02315s
 m02316s,dcs:CellularCompartmentExtracellular,bio/MNXM59131,bio/m02316s
 m02568l,dcs:CellularCompartmentLysosome,bio/MNXM165012,bio/m02568l
@@ -5965,10 +5965,10 @@ m01738p,dcs:CellularCompartmentPeroxisome,bio/MNXM5727,bio/m01738p
 m01138p,dcs:CellularCompartmentPeroxisome,bio/MNXM164351,bio/m01138p
 m00788m,dcs:CellularCompartmentMitochondria,bio/CHEMBL4071755,bio/m00788m
 m03151m,dcs:CellularCompartmentMitochondria,bio/MNXM5989,bio/m03151m
-CE5837_c,dcs:CellularCompartmentCytosol,bio/MNXM166652,bio/CE5837_c
-CE5838_c,dcs:CellularCompartmentCytosol,bio/MNXM166522,bio/CE5838_c
-CE5839_c,dcs:CellularCompartmentCytosol,bio/MNXM166480,bio/CE5839_c
-CE5840_c,dcs:CellularCompartmentCytosol,bio/MNXM165601,bio/CE5840_c
+CE5837_c,dcs:CellularCompartmentCytosol,bio/MNXM166652,bio/ce5837_c
+CE5838_c,dcs:CellularCompartmentCytosol,bio/MNXM166522,bio/ce5838_c
+CE5839_c,dcs:CellularCompartmentCytosol,bio/MNXM166480,bio/ce5839_c
+CE5840_c,dcs:CellularCompartmentCytosol,bio/MNXM165601,bio/ce5840_c
 m00766r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM163170,bio/m00766r
 m01321r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM15963,bio/m01321r
 m01923r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM163392,bio/m01923r
@@ -5977,19 +5977,19 @@ m01675n,dcs:CellularCompartmentNucleus,bio/CHEMBL455876,bio/m01675n
 m01189n,dcs:CellularCompartmentNucleus,bio/MNXM162832,bio/m01189n
 m00787m,dcs:CellularCompartmentMitochondria,bio/MNXM163184,bio/m00787m
 m01979m,dcs:CellularCompartmentMitochondria,bio/MNXM165154,bio/m01979m
-CE5829_c,dcs:CellularCompartmentCytosol,bio/MNXM166552,bio/CE5829_c
-CE5865_c,dcs:CellularCompartmentCytosol,bio/MNXM127276,bio/CE5865_c
-CE5866_c,dcs:CellularCompartmentCytosol,bio/MNXM15786,bio/CE5866_c
+CE5829_c,dcs:CellularCompartmentCytosol,bio/MNXM166552,bio/ce5829_c
+CE5865_c,dcs:CellularCompartmentCytosol,bio/MNXM127276,bio/ce5865_c
+CE5866_c,dcs:CellularCompartmentCytosol,bio/MNXM15786,bio/ce5866_c
 m02551s,dcs:CellularCompartmentExtracellular,bio/MNXM163855,bio/m02551s
 m02550s,dcs:CellularCompartmentExtracellular,bio/MNXM42,bio/m02550s
 m02429s,dcs:CellularCompartmentExtracellular,bio/MNXM19120,bio/m02429s
-CE5016_c,dcs:CellularCompartmentCytosol,bio/MNXM165531,bio/CE5016_c
-C06948_c,dcs:CellularCompartmentCytosol,bio/MNXM50391,bio/C06948_c
-C07486_c,dcs:CellularCompartmentCytosol,bio/MNXM64920,bio/C07486_c
+CE5016_c,dcs:CellularCompartmentCytosol,bio/MNXM165531,bio/ce5016_c
+C06948_c,dcs:CellularCompartmentCytosol,bio/MNXM50391,bio/c06948_c
+C07486_c,dcs:CellularCompartmentCytosol,bio/MNXM64920,bio/c07486_c
 m01831r,dcs:CellularCompartmentEndoplasmicReticulum,bio/CHEMBL1255,bio/m01831r
-C06948_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/Diazepam,bio/C06948_r
-C07486_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/Nordazepam,bio/C07486_r
-C06453_c,dcs:CellularCompartmentCytosol,bio/MNXM90852,bio/C06453_c
+C06948_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/Diazepam,bio/c06948_r
+C07486_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/Nordazepam,bio/c07486_r
+C06453_c,dcs:CellularCompartmentCytosol,bio/MNXM90852,bio/c06453_c
 m02156s,dcs:CellularCompartmentExtracellular,bio/MNXM3035,bio/m02156s
 m01442l,dcs:CellularCompartmentLysosome,bio/MNXM43,bio/m01442l
 m02156l,dcs:CellularCompartmentLysosome,bio/MNXM3035,bio/m02156l
@@ -6013,10 +6013,10 @@ m01923s,dcs:CellularCompartmentExtracellular,bio/MNXM163392,bio/m01923s
 m01924s,dcs:CellularCompartmentExtracellular,bio/MNXM163393,bio/m01924s
 m01923l,dcs:CellularCompartmentLysosome,bio/MNXM163392,bio/m01923l
 m01924l,dcs:CellularCompartmentLysosome,bio/MNXM163393,bio/m01924l
-CE2615_c,dcs:CellularCompartmentCytosol,"bio/2-Hydroxyamino-3,8-Dimethylimidazo[4,5-F]Quinoxaline",bio/CE2615_c
-CE2616_c,dcs:CellularCompartmentCytosol,"bio/2-Hydroxyamino-Meiqx-N2-(Beta-1-Glucosiduronyl)-2-Hydroxyamino-3,8-Dimethylimidazo[4,5-F]Quinoxaline",bio/CE2616_c
-CE2615_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM164138,bio/CE2615_r
-CE2616_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM165945,bio/CE2616_r
+CE2615_c,dcs:CellularCompartmentCytosol,"bio/2-Hydroxyamino-3,8-Dimethylimidazo[4,5-F]Quinoxaline",bio/ce2615_c
+CE2616_c,dcs:CellularCompartmentCytosol,"bio/2-Hydroxyamino-Meiqx-N2-(Beta-1-Glucosiduronyl)-2-Hydroxyamino-3,8-Dimethylimidazo[4,5-F]Quinoxaline",bio/ce2616_c
+CE2615_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM164138,bio/ce2615_r
+CE2616_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM165945,bio/ce2616_r
 m00751c,dcs:CellularCompartmentCytosol,bio/MNXM867,bio/m00751c
 m01087c,dcs:CellularCompartmentCytosol,bio/MNXM163691,bio/m01087c
 m00747c,dcs:CellularCompartmentCytosol,bio/MNXM151029,bio/m00747c
@@ -6036,32 +6036,32 @@ m00177c,dcs:CellularCompartmentCytosol,bio/MNXM31749,bio/m00177c
 m00894c,dcs:CellularCompartmentCytosol,bio/MNXM166250,bio/m00894c
 m01574c,dcs:CellularCompartmentCytosol,bio/MNXM167439,bio/m01574c
 m00886c,dcs:CellularCompartmentCytosol,bio/MNXM166248,bio/m00886c
-CE2597_c,dcs:CellularCompartmentCytosol,bio/MNXM166067,bio/CE2597_c
-CE0692_c,dcs:CellularCompartmentCytosol,bio/MNXM166246,bio/CE0692_c
-CE2597_m,dcs:CellularCompartmentMitochondria,bio/3(S)-3-Hydroxydodecen-(5Z)-Oyl Coenzyme A,bio/CE2597_m
-CE2597_p,dcs:CellularCompartmentPeroxisome,bio/3(S)-3-Hydroxydodecen-(5Z)-Oyl Coenzyme A,bio/CE2597_p
-CE0692_p,dcs:CellularCompartmentPeroxisome,bio/3-Oxolaur-Cis-5-Enoyl Coenzyme A,bio/CE0692_p
-C03372_c,dcs:CellularCompartmentCytosol,bio/1-Acylglycerone 3-Phosphate,bio/C03372_c
+CE2597_c,dcs:CellularCompartmentCytosol,bio/MNXM166067,bio/ce2597_c
+CE0692_c,dcs:CellularCompartmentCytosol,bio/MNXM166246,bio/ce0692_c
+CE2597_m,dcs:CellularCompartmentMitochondria,bio/3(S)-3-Hydroxydodecen-(5Z)-Oyl Coenzyme A,bio/ce2597_m
+CE2597_p,dcs:CellularCompartmentPeroxisome,bio/3(S)-3-Hydroxydodecen-(5Z)-Oyl Coenzyme A,bio/ce2597_p
+CE0692_p,dcs:CellularCompartmentPeroxisome,bio/3-Oxolaur-Cis-5-Enoyl Coenzyme A,bio/ce0692_p
+C03372_c,dcs:CellularCompartmentCytosol,bio/1-Acylglycerone 3-Phosphate,bio/c03372_c
 m02675m,dcs:CellularCompartmentMitochondria,bio/CHEMBL453509,bio/m02675m
 m02675p,dcs:CellularCompartmentPeroxisome,bio/CHEMBL453509,bio/m02675p
-CE2596_m,dcs:CellularCompartmentMitochondria,"bio/Trans,Cis-Dodeca-2,5-Dienoyl Coenzyme A",bio/CE2596_m
-CE2596_p,dcs:CellularCompartmentPeroxisome,"bio/Trans,Cis-Dodeca-2,5-Dienoyl Coenzyme A",bio/CE2596_p
+CE2596_m,dcs:CellularCompartmentMitochondria,"bio/Trans,Cis-Dodeca-2,5-Dienoyl Coenzyme A",bio/ce2596_m
+CE2596_p,dcs:CellularCompartmentPeroxisome,"bio/Trans,Cis-Dodeca-2,5-Dienoyl Coenzyme A",bio/ce2596_p
 m02736g,dcs:CellularCompartmentGolgiApparatus,bio/MNXM2711,bio/m02736g
 m02736r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM2711,bio/m02736r
 m02735n,dcs:CellularCompartmentNucleus,bio/MNXM7658,bio/m02735n
 m00552g,dcs:CellularCompartmentGolgiApparatus,bio/MNXM90514,bio/m00552g
-C03968_c,dcs:CellularCompartmentCytosol,bio/1-Alkyl-Sn-Glycerol 3-Phosphate,bio/C03968_c
-CE5117_m,dcs:CellularCompartmentMitochondria,"bio/(3E,5Z,8Z)-Tetradecatrienoyl Coenzyme A",bio/CE5117_m
-CE5118_m,dcs:CellularCompartmentMitochondria,"bio/Trans-2-Cis,Cis-4,8-Tetradecatrienoyl Coenzyme A",bio/CE5118_m
-CE5119_m,dcs:CellularCompartmentMitochondria,bio/Trans-3-Cis-8-Tetradecadienoyl Coenzyme A,bio/CE5119_m
-CE5120_m,dcs:CellularCompartmentMitochondria,bio/Trans-2-Cis-8-Tetradecadienoyl Coenzyme A,bio/CE5120_m
-CE4790_m,dcs:CellularCompartmentMitochondria,bio/(3S)-3-Hydroxy-Cis-8-Tetradecenoyl Coenzyme A,bio/CE4790_m
-CE4792_m,dcs:CellularCompartmentMitochondria,bio/3-Oxo-Cis-8-Tetradecenoyl Coenzyme A,bio/CE4792_m
-CE4794_m,dcs:CellularCompartmentMitochondria,bio/Cis-6-Dodecenoyl Coenzyme A,bio/CE4794_m
-C01264_c,dcs:CellularCompartmentCytosol,bio/1-Alkyl-2-Acetyl-Sn-Glycerol 3-Phosphate,bio/C01264_c
-CE5122_p,dcs:CellularCompartmentPeroxisome,bio/3(S)-Phytanoyl Coenzyme A,bio/CE5122_p
-CE5123_p,dcs:CellularCompartmentPeroxisome,bio/3(S)-2-Hydroxyphytanoyl Coenzyme A,bio/CE5123_p
-CE5122_c,dcs:CellularCompartmentCytosol,bio/MNXM166069,bio/CE5122_c
+C03968_c,dcs:CellularCompartmentCytosol,bio/1-Alkyl-Sn-Glycerol 3-Phosphate,bio/c03968_c
+CE5117_m,dcs:CellularCompartmentMitochondria,"bio/(3E,5Z,8Z)-Tetradecatrienoyl Coenzyme A",bio/ce5117_m
+CE5118_m,dcs:CellularCompartmentMitochondria,"bio/Trans-2-Cis,Cis-4,8-Tetradecatrienoyl Coenzyme A",bio/ce5118_m
+CE5119_m,dcs:CellularCompartmentMitochondria,bio/Trans-3-Cis-8-Tetradecadienoyl Coenzyme A,bio/ce5119_m
+CE5120_m,dcs:CellularCompartmentMitochondria,bio/Trans-2-Cis-8-Tetradecadienoyl Coenzyme A,bio/ce5120_m
+CE4790_m,dcs:CellularCompartmentMitochondria,bio/(3S)-3-Hydroxy-Cis-8-Tetradecenoyl Coenzyme A,bio/ce4790_m
+CE4792_m,dcs:CellularCompartmentMitochondria,bio/3-Oxo-Cis-8-Tetradecenoyl Coenzyme A,bio/ce4792_m
+CE4794_m,dcs:CellularCompartmentMitochondria,bio/Cis-6-Dodecenoyl Coenzyme A,bio/ce4794_m
+C01264_c,dcs:CellularCompartmentCytosol,bio/1-Alkyl-2-Acetyl-Sn-Glycerol 3-Phosphate,bio/c01264_c
+CE5122_p,dcs:CellularCompartmentPeroxisome,bio/3(S)-Phytanoyl Coenzyme A,bio/ce5122_p
+CE5123_p,dcs:CellularCompartmentPeroxisome,bio/3(S)-2-Hydroxyphytanoyl Coenzyme A,bio/ce5123_p
+CE5122_c,dcs:CellularCompartmentCytosol,bio/MNXM166069,bio/ce5122_c
 m00075c,dcs:CellularCompartmentCytosol,bio/CHEMBL1162496,bio/m00075c
 m01736l,dcs:CellularCompartmentLysosome,bio/CHEMBL59,bio/m01736l
 m01738l,dcs:CellularCompartmentLysosome,bio/MNXM5727,bio/m01738l
@@ -6077,18 +6077,18 @@ m00679r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM164160,bio/m00679r
 m00863r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM164262,bio/m00863r
 m00713r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM164187,bio/m00713r
 m00680r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM164161,bio/m00680r
-CE4824_r,dcs:CellularCompartmentEndoplasmicReticulum,"bio/Tetracosa-9,12,15,18,21-All-Cis-Pentaenoyl Coenzyme A",bio/CE4824_r
+CE4824_r,dcs:CellularCompartmentEndoplasmicReticulum,"bio/Tetracosa-9,12,15,18,21-All-Cis-Pentaenoyl Coenzyme A",bio/ce4824_r
 m00853r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM164259,bio/m00853r
 m00718r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM164189,bio/m00718r
 m01450n,dcs:CellularCompartmentNucleus,bio/MNXM103,bio/m01450n
-CE2313_c,dcs:CellularCompartmentCytosol,bio/MNXM166287,bio/CE2313_c
-CE2313_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM166287,bio/CE2313_r
+CE2313_c,dcs:CellularCompartmentCytosol,bio/MNXM166287,bio/ce2313_c
+CE2313_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM166287,bio/ce2313_r
 m00943r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM5534,bio/m00943r
-CE6027_c,dcs:CellularCompartmentCytosol,bio/MNXM164173,bio/CE6027_c
-CE6027_m,dcs:CellularCompartmentMitochondria,bio/MNXM164173,bio/CE6027_m
-CE4837_c,dcs:CellularCompartmentCytosol,bio/MNXM165171,bio/CE4837_c
+CE6027_c,dcs:CellularCompartmentCytosol,bio/MNXM164173,bio/ce6027_c
+CE6027_m,dcs:CellularCompartmentMitochondria,bio/MNXM164173,bio/ce6027_m
+CE4837_c,dcs:CellularCompartmentCytosol,bio/MNXM165171,bio/ce4837_c
 m00681r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM145987,bio/m00681r
-CE4837_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM165171,bio/CE4837_r
+CE4837_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM165171,bio/ce4837_r
 m00864r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM164263,bio/m00864r
 m00714r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM164188,bio/m00714r
 m00074r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM145822,bio/m00074r
@@ -6105,7 +6105,7 @@ m00861r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM164261,bio/m00861r
 m00711r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM150759,bio/m00711r
 m03003r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM161732,bio/m03003r
 m00901r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM164265,bio/m00901r
-CE5049_c,dcs:CellularCompartmentCytosol,bio/One Carbon Unit,bio/CE5049_c
+CE5049_c,dcs:CellularCompartmentCytosol,bio/One Carbon Unit,bio/ce5049_c
 m01071l,dcs:CellularCompartmentLysosome,bio/MNXM10347,bio/m01071l
 m01069l,dcs:CellularCompartmentLysosome,bio/CHEMBL27769,bio/m01069l
 m01071r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM10347,bio/m01071r
@@ -6125,18 +6125,18 @@ m02138l,dcs:CellularCompartmentLysosome,bio/CHEMBL505789,bio/m02138l
 m02499l,dcs:CellularCompartmentLysosome,bio/MNXM163443,bio/m02499l
 m00709r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM163174,bio/m00709r
 m03015r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM163590,bio/m03015r
-CE5160_c,dcs:CellularCompartmentCytosol,bio/MNXM163191,bio/CE5160_c
-CE5160_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM163191,bio/CE5160_r
-CE5161_c,dcs:CellularCompartmentCytosol,bio/MNXM163175,bio/CE5161_c
-CE5161_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM163175,bio/CE5161_r
-CE5162_c,dcs:CellularCompartmentCytosol,bio/MNXM163591,bio/CE5162_c
-CE5162_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM163591,bio/CE5162_r
-CE5168_m,dcs:CellularCompartmentMitochondria,"bio/24(R),25(R)-Varanoyl Coenzyme A",bio/CE5168_m
-CE5168_p,dcs:CellularCompartmentPeroxisome,"bio/24(R),25(R)-Varanoyl Coenzyme A",bio/CE5168_p
-CE5168_c,dcs:CellularCompartmentCytosol,bio/MNXM166027,bio/CE5168_c
-CE5169_c,dcs:CellularCompartmentCytosol,bio/24-Oxo-25(R)-Trihydroxycoprostanoyl Coenzyme A,bio/CE5169_c
-CE5169_m,dcs:CellularCompartmentMitochondria,bio/24-Oxo-25(R)-Trihydroxycoprostanoyl Coenzyme A,bio/CE5169_m
-CE5169_p,dcs:CellularCompartmentPeroxisome,bio/24-Oxo-25(R)-Trihydroxycoprostanoyl Coenzyme A,bio/CE5169_p
+CE5160_c,dcs:CellularCompartmentCytosol,bio/MNXM163191,bio/ce5160_c
+CE5160_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM163191,bio/ce5160_r
+CE5161_c,dcs:CellularCompartmentCytosol,bio/MNXM163175,bio/ce5161_c
+CE5161_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM163175,bio/ce5161_r
+CE5162_c,dcs:CellularCompartmentCytosol,bio/MNXM163591,bio/ce5162_c
+CE5162_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM163591,bio/ce5162_r
+CE5168_m,dcs:CellularCompartmentMitochondria,"bio/24(R),25(R)-Varanoyl Coenzyme A",bio/ce5168_m
+CE5168_p,dcs:CellularCompartmentPeroxisome,"bio/24(R),25(R)-Varanoyl Coenzyme A",bio/ce5168_p
+CE5168_c,dcs:CellularCompartmentCytosol,bio/MNXM166027,bio/ce5168_c
+CE5169_c,dcs:CellularCompartmentCytosol,bio/24-Oxo-25(R)-Trihydroxycoprostanoyl Coenzyme A,bio/ce5169_c
+CE5169_m,dcs:CellularCompartmentMitochondria,bio/24-Oxo-25(R)-Trihydroxycoprostanoyl Coenzyme A,bio/ce5169_m
+CE5169_p,dcs:CellularCompartmentPeroxisome,bio/24-Oxo-25(R)-Trihydroxycoprostanoyl Coenzyme A,bio/ce5169_p
 m01428s,dcs:CellularCompartmentExtracellular,bio/MNXM449,bio/m01428s
 12dgr120_s,dcs:CellularCompartmentExtracellular,bio/MNXM4939,bio/12dgr120_s
 m02171g,dcs:CellularCompartmentGolgiApparatus,bio/CHEMBL1222251,bio/m02171g
@@ -6174,7 +6174,7 @@ m00028n,dcs:CellularCompartmentNucleus,bio/MNXM33782,bio/m00028n
 m02364n,dcs:CellularCompartmentNucleus,bio/CHEMBL65061,bio/m02364n
 m00307n,dcs:CellularCompartmentNucleus,bio/MNXM13980,bio/m00307n
 m01047r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM164328,bio/m01047r
-C08276_c,dcs:CellularCompartmentCytosol,bio/CHEMBL116212,bio/C08276_c
+C08276_c,dcs:CellularCompartmentCytosol,bio/CHEMBL116212,bio/c08276_c
 ch4s_c,dcs:CellularCompartmentCytosol,bio/MNXM652,bio/ch4s_c
 acryl_c,dcs:CellularCompartmentCytosol,bio/MNXM1368,bio/acryl_c
 m00309m,dcs:CellularCompartmentMitochondria,bio/CHEMBL1447811,bio/m00309m
@@ -6201,14 +6201,14 @@ m00421c,dcs:CellularCompartmentCytosol,bio/MNXM33750,bio/m00421c
 m02649c,dcs:CellularCompartmentCytosol,bio/MNXM65538,bio/m02649c
 m00420c,dcs:CellularCompartmentCytosol,bio/MNXM33740,bio/m00420c
 m00581c,dcs:CellularCompartmentCytosol,bio/MNXM35480,bio/m00581c
-CE2516_c,dcs:CellularCompartmentCytosol,bio/CHEMBL465183,bio/CE2516_c
+CE2516_c,dcs:CellularCompartmentCytosol,bio/CHEMBL465183,bio/ce2516_c
 m02785n,dcs:CellularCompartmentNucleus,bio/CHEMBL495,bio/m02785n
 m02793n,dcs:CellularCompartmentNucleus,bio/MNXM78300,bio/m02793n
 m00329m,dcs:CellularCompartmentMitochondria,bio/MNXM33276,bio/m00329m
 m00328m,dcs:CellularCompartmentMitochondria,bio/MNXM33275,bio/m00328m
 m00329p,dcs:CellularCompartmentPeroxisome,bio/MNXM33276,bio/m00329p
 m00328p,dcs:CellularCompartmentPeroxisome,bio/MNXM33275,bio/m00328p
-CE4794_p,dcs:CellularCompartmentPeroxisome,bio/Cis-6-Dodecenoyl Coenzyme A,bio/CE4794_p
+CE4794_p,dcs:CellularCompartmentPeroxisome,bio/Cis-6-Dodecenoyl Coenzyme A,bio/ce4794_p
 m00678c,dcs:CellularCompartmentCytosol,bio/MNXM1601,bio/m00678c
 m03035c,dcs:CellularCompartmentCytosol,bio/MNXM90096,bio/m03035c
 m02891r,dcs:CellularCompartmentEndoplasmicReticulum,bio/CHEMBL1474517,bio/m02891r
@@ -6222,42 +6222,42 @@ m02980r,dcs:CellularCompartmentEndoplasmicReticulum,bio/CHEMBL2021342,bio/m02980
 m02890r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM2562,bio/m02890r
 m02617r,dcs:CellularCompartmentEndoplasmicReticulum,bio/CHEMBL1437,bio/m02617r
 m02618r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM64900,bio/m02618r
-CN0012_c,dcs:CellularCompartmentCytosol,bio/MNXM162933,bio/CN0012_c
+CN0012_c,dcs:CellularCompartmentCytosol,bio/MNXM162933,bio/cn0012_c
 m01374r,dcs:CellularCompartmentEndoplasmicReticulum,bio/CHEMBL31184,bio/m01374r
-CN0012_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM162933,bio/CN0012_r
-CN0009_c,dcs:CellularCompartmentCytosol,bio/MNXM163759,bio/CN0009_c
-CN0009_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM163759,bio/CN0009_r
-CN0012_p,dcs:CellularCompartmentPeroxisome,bio/MNXM162933,bio/CN0012_p
-CN0009_p,dcs:CellularCompartmentPeroxisome,bio/MNXM163759,bio/CN0009_p
-CN0010_c,dcs:CellularCompartmentCytosol,bio/MNXM163760,bio/CN0010_c
+CN0012_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM162933,bio/cn0012_r
+CN0009_c,dcs:CellularCompartmentCytosol,bio/MNXM163759,bio/cn0009_c
+CN0009_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM163759,bio/cn0009_r
+CN0012_p,dcs:CellularCompartmentPeroxisome,bio/MNXM162933,bio/cn0012_p
+CN0009_p,dcs:CellularCompartmentPeroxisome,bio/MNXM163759,bio/cn0009_p
+CN0010_c,dcs:CellularCompartmentCytosol,bio/MNXM163760,bio/cn0010_c
 m01375r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM7104,bio/m01375r
-CN0010_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM163760,bio/CN0010_r
+CN0010_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM163760,bio/cn0010_r
 m01375p,dcs:CellularCompartmentPeroxisome,bio/MNXM7104,bio/m01375p
-CN0010_p,dcs:CellularCompartmentPeroxisome,bio/MNXM163760,bio/CN0010_p
-CN0011_c,dcs:CellularCompartmentCytosol,bio/MNXM163761,bio/CN0011_c
+CN0010_p,dcs:CellularCompartmentPeroxisome,bio/MNXM163760,bio/cn0010_p
+CN0011_c,dcs:CellularCompartmentCytosol,bio/MNXM163761,bio/cn0011_c
 m01379r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM7106,bio/m01379r
-CN0011_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM163761,bio/CN0011_r
+CN0011_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM163761,bio/cn0011_r
 m01379p,dcs:CellularCompartmentPeroxisome,bio/MNXM7106,bio/m01379p
-CN0011_p,dcs:CellularCompartmentPeroxisome,bio/MNXM163761,bio/CN0011_p
-CN0021_c,dcs:CellularCompartmentCytosol,bio/MNXM162911,bio/CN0021_c
+CN0011_p,dcs:CellularCompartmentPeroxisome,bio/MNXM163761,bio/cn0011_p
+CN0021_c,dcs:CellularCompartmentCytosol,bio/MNXM162911,bio/cn0021_c
 m01174r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM8204,bio/m01174r
-CN0021_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM162911,bio/CN0021_r
-CN0022_c,dcs:CellularCompartmentCytosol,bio/MNXM162910,bio/CN0022_c
-CN0022_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM162910,bio/CN0022_r
-CN0021_p,dcs:CellularCompartmentPeroxisome,bio/MNXM162911,bio/CN0021_p
-CN0022_p,dcs:CellularCompartmentPeroxisome,bio/MNXM162910,bio/CN0022_p
-CN0023_c,dcs:CellularCompartmentCytosol,bio/MNXM164384,bio/CN0023_c
-CN0023_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM164384,bio/CN0023_r
-CN0016_c,dcs:CellularCompartmentCytosol,bio/MNXM50427,bio/CN0016_c
-CN0017_c,dcs:CellularCompartmentCytosol,bio/MNXM162957,bio/CN0017_c
-CN0016_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM50427,bio/CN0016_r
-CN0017_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM162957,bio/CN0017_r
-CN0018_c,dcs:CellularCompartmentCytosol,bio/MNXM162956,bio/CN0018_c
-CN0018_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM162956,bio/CN0018_r
-CN0017_p,dcs:CellularCompartmentPeroxisome,bio/MNXM162957,bio/CN0017_p
-CN0018_p,dcs:CellularCompartmentPeroxisome,bio/MNXM162956,bio/CN0018_p
-CN0019_c,dcs:CellularCompartmentCytosol,bio/MNXM164731,bio/CN0019_c
-CN0019_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM164731,bio/CN0019_r
+CN0021_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM162911,bio/cn0021_r
+CN0022_c,dcs:CellularCompartmentCytosol,bio/MNXM162910,bio/cn0022_c
+CN0022_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM162910,bio/cn0022_r
+CN0021_p,dcs:CellularCompartmentPeroxisome,bio/MNXM162911,bio/cn0021_p
+CN0022_p,dcs:CellularCompartmentPeroxisome,bio/MNXM162910,bio/cn0022_p
+CN0023_c,dcs:CellularCompartmentCytosol,bio/MNXM164384,bio/cn0023_c
+CN0023_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM164384,bio/cn0023_r
+CN0016_c,dcs:CellularCompartmentCytosol,bio/MNXM50427,bio/cn0016_c
+CN0017_c,dcs:CellularCompartmentCytosol,bio/MNXM162957,bio/cn0017_c
+CN0016_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM50427,bio/cn0016_r
+CN0017_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM162957,bio/cn0017_r
+CN0018_c,dcs:CellularCompartmentCytosol,bio/MNXM162956,bio/cn0018_c
+CN0018_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM162956,bio/cn0018_r
+CN0017_p,dcs:CellularCompartmentPeroxisome,bio/MNXM162957,bio/cn0017_p
+CN0018_p,dcs:CellularCompartmentPeroxisome,bio/MNXM162956,bio/cn0018_p
+CN0019_c,dcs:CellularCompartmentCytosol,bio/MNXM164731,bio/cn0019_c
+CN0019_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM164731,bio/cn0019_r
 m02999c,dcs:CellularCompartmentCytosol,bio/MNXM609,bio/m02999c
 m00159c,dcs:CellularCompartmentCytosol,bio/MNXM1058,bio/m00159c
 adpac_c,dcs:CellularCompartmentCytosol,bio/CHEMBL1157,bio/adpac_c
@@ -6764,8 +6764,8 @@ m01052s,dcs:CellularCompartmentExtracellular,bio/MNXM506,bio/m01052s
 m01074s,dcs:CellularCompartmentExtracellular,bio/CHEMBL601,bio/m01074s
 m01042s,dcs:CellularCompartmentExtracellular,bio/CHEMBL1743204,bio/m01042s
 m02805s,dcs:CellularCompartmentExtracellular,bio/CHEMBL1797131,bio/m02805s
-abt_D_s,dcs:CellularCompartmentExtracellular,bio/MNXM1018,bio/abt_D_s
-abt_D_c,dcs:CellularCompartmentCytosol,bio/MNXM1018,bio/abt_D_c
+abt_D_s,dcs:CellularCompartmentExtracellular,bio/MNXM1018,bio/abt_d_s
+abt_D_c,dcs:CellularCompartmentCytosol,bio/MNXM1018,bio/abt_d_c
 m02536c,dcs:CellularCompartmentCytosol,bio/MNXM730,bio/m02536c
 m02536s,dcs:CellularCompartmentExtracellular,bio/MNXM730,bio/m02536s
 acgly_m,dcs:CellularCompartmentMitochondria,bio/Acetyl-Glycine,bio/acgly_m
@@ -6774,9 +6774,9 @@ acgly_s,dcs:CellularCompartmentExtracellular,bio/Acetyl-Glycine,bio/acgly_s
 aclys_s,dcs:CellularCompartmentExtracellular,bio/Acetyl-L-Lysine,bio/aclys_s
 aclys_m,dcs:CellularCompartmentMitochondria,bio/Acetyl-L-Lysine,bio/aclys_m
 m02546s,dcs:CellularCompartmentExtracellular,bio/MNXM817,bio/m02546s
-acthr_L_m,dcs:CellularCompartmentMitochondria,bio/Acetyl-Threonine,bio/acthr_L_m
-acthr_L_c,dcs:CellularCompartmentCytosol,bio/Acetyl-Threonine,bio/acthr_L_c
-acthr_L_s,dcs:CellularCompartmentExtracellular,bio/Acetyl-Threonine,bio/acthr_L_s
+acthr_L_m,dcs:CellularCompartmentMitochondria,bio/Acetyl-Threonine,bio/acthr_l_m
+acthr_L_c,dcs:CellularCompartmentCytosol,bio/Acetyl-Threonine,bio/acthr_l_c
+acthr_L_s,dcs:CellularCompartmentExtracellular,bio/Acetyl-Threonine,bio/acthr_l_s
 adpac_s,dcs:CellularCompartmentExtracellular,bio/CHEMBL1157,bio/adpac_s
 adpoh_s,dcs:CellularCompartmentExtracellular,bio/2-Hydroxyadipic Acid,bio/adpoh_s
 m01313s,dcs:CellularCompartmentExtracellular,bio/CHEMBL593429,bio/m01313s
@@ -6802,13 +6802,13 @@ m00305s,dcs:CellularCompartmentExtracellular,bio/CHEMBL2447889,bio/m00305s
 m01168s,dcs:CellularCompartmentExtracellular,bio/CHEMBL2074840,bio/m01168s
 m00308s,dcs:CellularCompartmentExtracellular,bio/MNXM13995,bio/m00308s
 m01087s,dcs:CellularCompartmentExtracellular,bio/MNXM163691,bio/m01087s
-CE1297_s,dcs:CellularCompartmentExtracellular,bio/MNXM164395,bio/CE1297_s
+CE1297_s,dcs:CellularCompartmentExtracellular,bio/MNXM164395,bio/ce1297_s
 m02530s,dcs:CellularCompartmentExtracellular,bio/MNXM19630,bio/m02530s
 m02531s,dcs:CellularCompartmentExtracellular,bio/MNXM163469,bio/m02531s
 m01392s,dcs:CellularCompartmentExtracellular,bio/MNXM36533,bio/m01392s
 m00830s,dcs:CellularCompartmentExtracellular,bio/MNXM10073,bio/m00830s
 m01172s,dcs:CellularCompartmentExtracellular,bio/MNXM48977,bio/m01172s
-CE2516_s,dcs:CellularCompartmentExtracellular,bio/CHEMBL465183,bio/CE2516_s
+CE2516_s,dcs:CellularCompartmentExtracellular,bio/CHEMBL465183,bio/ce2516_s
 m00378s,dcs:CellularCompartmentExtracellular,bio/MNXM165539,bio/m00378s
 eidi1114ac_s,dcs:CellularCompartmentExtracellular,"bio/Cis,Cis-11,14-Eicosadienoic Acid",bio/eidi1114ac_s
 m00384s,dcs:CellularCompartmentExtracellular,bio/MNXM33412,bio/m00384s
@@ -6887,15 +6887,15 @@ m02720s,dcs:CellularCompartmentExtracellular,bio/CHEMBL1044,bio/m02720s
 m00916s,dcs:CellularCompartmentExtracellular,bio/CHEMBL284377,bio/m00916s
 m02868c,dcs:CellularCompartmentCytosol,bio/MNXM384,bio/m02868c
 txb2_c,dcs:CellularCompartmentCytosol,bio/MNXM148517,bio/txb2_c
-acile_L_m,dcs:CellularCompartmentMitochondria,bio/Acetyl Isoleucine (Chemspider Id 9964364),bio/acile_L_m
-acile_L_c,dcs:CellularCompartmentCytosol,bio/Acetyl Isoleucine (Chemspider Id 9964364),bio/acile_L_c
-acile_L_s,dcs:CellularCompartmentExtracellular,bio/Acetyl Isoleucine (Chemspider Id 9964364),bio/acile_L_s
-acleu_L_m,dcs:CellularCompartmentMitochondria,bio/N-Acetylleucine,bio/acleu_L_m
-acleu_L_c,dcs:CellularCompartmentCytosol,bio/N-Acetylleucine,bio/acleu_L_c
-acleu_L_s,dcs:CellularCompartmentExtracellular,bio/N-Acetylleucine,bio/acleu_L_s
-achom_L_m,dcs:CellularCompartmentMitochondria,bio/Acetylhomoserine,bio/achom_L_m
-achom_L_c,dcs:CellularCompartmentCytosol,bio/Acetylhomoserine,bio/achom_L_c
-achom_L_s,dcs:CellularCompartmentExtracellular,bio/Acetylhomoserine,bio/achom_L_s
+acile_L_m,dcs:CellularCompartmentMitochondria,bio/Acetyl Isoleucine (Chemspider Id 9964364),bio/acile_l_m
+acile_L_c,dcs:CellularCompartmentCytosol,bio/Acetyl Isoleucine (Chemspider Id 9964364),bio/acile_l_c
+acile_L_s,dcs:CellularCompartmentExtracellular,bio/Acetyl Isoleucine (Chemspider Id 9964364),bio/acile_l_s
+acleu_L_m,dcs:CellularCompartmentMitochondria,bio/N-Acetylleucine,bio/acleu_l_m
+acleu_L_c,dcs:CellularCompartmentCytosol,bio/N-Acetylleucine,bio/acleu_l_c
+acleu_L_s,dcs:CellularCompartmentExtracellular,bio/N-Acetylleucine,bio/acleu_l_s
+achom_L_m,dcs:CellularCompartmentMitochondria,bio/Acetylhomoserine,bio/achom_l_m
+achom_L_c,dcs:CellularCompartmentCytosol,bio/Acetylhomoserine,bio/achom_l_c
+achom_L_s,dcs:CellularCompartmentExtracellular,bio/Acetylhomoserine,bio/achom_l_s
 phacgly_s,dcs:CellularCompartmentExtracellular,bio/Phenylacetylglycine_phacgly,bio/phacgly_s
 m02136m,dcs:CellularCompartmentMitochondria,bio/CHEMBL11722,bio/m02136m
 urscholcoa_c,dcs:CellularCompartmentCytosol,bio/Ursodeoxycholyl Coenzyme A,bio/urscholcoa_c
@@ -7419,8 +7419,8 @@ m02908s,dcs:CellularCompartmentExtracellular,bio/MNXM5930,bio/m02908s
 hxa_s,dcs:CellularCompartmentExtracellular,bio/MNXM1653,bio/hxa_s
 m01954c,dcs:CellularCompartmentCytosol,bio/MNXM18091,bio/m01954c
 m01954s,dcs:CellularCompartmentExtracellular,bio/MNXM18091,bio/m01954s
-Lhcystin_c,dcs:CellularCompartmentCytosol,bio/L-Homocystine,bio/Lhcystin_c
-Lhcystin_s,dcs:CellularCompartmentExtracellular,bio/L-Homocystine,bio/Lhcystin_s
+Lhcystin_c,dcs:CellularCompartmentCytosol,bio/L-Homocystine,bio/lhcystin_c
+Lhcystin_s,dcs:CellularCompartmentExtracellular,bio/L-Homocystine,bio/lhcystin_s
 m02543s,dcs:CellularCompartmentExtracellular,bio/CHEMBL165084,bio/m02543s
 band_c,dcs:CellularCompartmentCytosol,bio/MNXM148099,bio/band_c
 bandmt_c,dcs:CellularCompartmentCytosol,bio/MNXM148098,bio/bandmt_c
@@ -7559,8 +7559,8 @@ subgly_s,dcs:CellularCompartmentExtracellular,bio/Suberyl-Glycine,bio/subgly_s
 4ohbut_s,dcs:CellularCompartmentExtracellular,bio/4-Hydroxy-Butyrate,bio/4ohbut_s
 pailste_hs_c,dcs:CellularCompartmentCytosol,bio/1-Stearoylglycerophosphoinositol,bio/pailste_hs_c
 peste_hs_c,dcs:CellularCompartmentCytosol,bio/1-Stearoylglycerophosphoethanolamine,bio/peste_hs_c
-2hxic_L_s,dcs:CellularCompartmentExtracellular,bio/2-Hydroxy-Isocaproate,bio/2hxic_L_s
-2hxic_L_c,dcs:CellularCompartmentCytosol,bio/2-Hydroxy-Isocaproate,bio/2hxic_L_c
+2hxic_L_s,dcs:CellularCompartmentExtracellular,bio/2-Hydroxy-Isocaproate,bio/2hxic_l_s
+2hxic_L_c,dcs:CellularCompartmentCytosol,bio/2-Hydroxy-Isocaproate,bio/2hxic_l_c
 2hydog_c,dcs:CellularCompartmentCytosol,bio/2-Hydroxy-Glutarate,bio/2hydog_c
 2hydog_s,dcs:CellularCompartmentExtracellular,bio/2-Hydroxy-Glutarate,bio/2hydog_s
 glutar_c,dcs:CellularCompartmentCytosol,bio/CHEMBL1162495,bio/glutar_c
@@ -7864,12 +7864,12 @@ tacr_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/Tacrolimus,bio/tacr_r
 1531tacr_s,dcs:CellularCompartmentExtracellular,"bio/15,31-O-Didesmethyl-tacrolimus",bio/1531tacr_s
 15dmt_c,dcs:CellularCompartmentCytosol,"bio/15-DMT or M-III, 15-O-desmethyl tacrolimus",bio/15dmt_c
 15dmt_s,dcs:CellularCompartmentExtracellular,"bio/15-DMT or M-III, 15-O-desmethyl tacrolimus",bio/15dmt_s
-1hibupglu_S_c,dcs:CellularCompartmentCytosol,bio/1-hydroxy S-ibuprofen-glucuronide,bio/1hibupglu_S_c
-1hibupglu_S_s,dcs:CellularCompartmentExtracellular,bio/1-hydroxy S-ibuprofen-glucuronide,bio/1hibupglu_S_s
-1hibup_S_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/1-hydroxy S-ibuprofen,bio/1hibup_S_r
-1hibupglu_S_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/1-hydroxy S-ibuprofen-glucuronide,bio/1hibupglu_S_r
-1hibup_S_c,dcs:CellularCompartmentCytosol,bio/1-hydroxy S-ibuprofen,bio/1hibup_S_c
-1hibup_S_s,dcs:CellularCompartmentExtracellular,bio/1-hydroxy S-ibuprofen,bio/1hibup_S_s
+1hibupglu_S_c,dcs:CellularCompartmentCytosol,bio/1-hydroxy S-ibuprofen-glucuronide,bio/1hibupglu_s_c
+1hibupglu_S_s,dcs:CellularCompartmentExtracellular,bio/1-hydroxy S-ibuprofen-glucuronide,bio/1hibupglu_s_s
+1hibup_S_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/1-hydroxy S-ibuprofen,bio/1hibup_s_r
+1hibupglu_S_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/1-hydroxy S-ibuprofen-glucuronide,bio/1hibupglu_s_r
+1hibup_S_c,dcs:CellularCompartmentCytosol,bio/1-hydroxy S-ibuprofen,bio/1hibup_s_c
+1hibup_S_s,dcs:CellularCompartmentExtracellular,bio/1-hydroxy S-ibuprofen,bio/1hibup_s_s
 1hmdgluc_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/1'-OH-midazolam-glucuronide,bio/1hmdgluc_r
 1hmdgluc_s,dcs:CellularCompartmentExtracellular,bio/1'-OH-midazolam-glucuronide,bio/1hmdgluc_s
 1hmdgluc_c,dcs:CellularCompartmentCytosol,bio/1'-OH-midazolam-glucuronide,bio/1hmdgluc_c
@@ -7890,14 +7890,14 @@ atvacid_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/atorvastatin-acid,bio/
 2hatvlacgluc_s,dcs:CellularCompartmentExtracellular,bio/2-hydroxy-atorvastatin-lactone-glucuronide,bio/2hatvlacgluc_s
 atvlac_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/atorvastatin-lactone,bio/atvlac_r
 2hatvlac_s,dcs:CellularCompartmentExtracellular,bio/2-hydroxy-atorvastatin-lactone / ortho-hydroxy-atorvastatin lactone,bio/2hatvlac_s
-2hibupglu_S_c,dcs:CellularCompartmentCytosol,bio/2-hydroxy S-ibuprofen-glucuronide,bio/2hibupglu_S_c
-2hibupglu_S_s,dcs:CellularCompartmentExtracellular,bio/2-hydroxy S-ibuprofen-glucuronide,bio/2hibupglu_S_s
-2hibup_R_c,dcs:CellularCompartmentCytosol,bio/2-hydroxy-R-ibuprofen,bio/2hibup_R_c
-2hibup_R_s,dcs:CellularCompartmentExtracellular,bio/2-hydroxy-R-ibuprofen,bio/2hibup_R_s
-2hibup_S_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/2-hydroxy-S-ibuprofen,bio/2hibup_S_r
-2hibupglu_S_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/2-hydroxy S-ibuprofen-glucuronide,bio/2hibupglu_S_r
-2hibup_S_c,dcs:CellularCompartmentCytosol,bio/2-hydroxy-S-ibuprofen,bio/2hibup_S_c
-2hibup_S_s,dcs:CellularCompartmentExtracellular,bio/2-hydroxy-S-ibuprofen,bio/2hibup_S_s
+2hibupglu_S_c,dcs:CellularCompartmentCytosol,bio/2-hydroxy S-ibuprofen-glucuronide,bio/2hibupglu_s_c
+2hibupglu_S_s,dcs:CellularCompartmentExtracellular,bio/2-hydroxy S-ibuprofen-glucuronide,bio/2hibupglu_s_s
+2hibup_R_c,dcs:CellularCompartmentCytosol,bio/2-hydroxy-R-ibuprofen,bio/2hibup_r_c
+2hibup_R_s,dcs:CellularCompartmentExtracellular,bio/2-hydroxy-R-ibuprofen,bio/2hibup_r_s
+2hibup_S_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/2-hydroxy-S-ibuprofen,bio/2hibup_s_r
+2hibupglu_S_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/2-hydroxy S-ibuprofen-glucuronide,bio/2hibupglu_s_r
+2hibup_S_c,dcs:CellularCompartmentCytosol,bio/2-hydroxy-S-ibuprofen,bio/2hibup_s_c
+2hibup_S_s,dcs:CellularCompartmentExtracellular,bio/2-hydroxy-S-ibuprofen,bio/2hibup_s_s
 31dmt_c,dcs:CellularCompartmentCytosol,"bio/31-DMT or M-II, 31-O-desmethyl tacrolimus",bio/31dmt_c
 31dmt_s,dcs:CellularCompartmentExtracellular,"bio/31-DMT or M-II, 31-O-desmethyl tacrolimus",bio/31dmt_s
 pvs_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/pravastatin,bio/pvs_r
@@ -7908,14 +7908,14 @@ smv_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/simvastatin lactone form,b
 35dsmv_r,dcs:CellularCompartmentEndoplasmicReticulum,"bio/3',5'-dihydrodiol-simvastatin-lactone form",bio/35dsmv_r
 35dsmv_c,dcs:CellularCompartmentCytosol,"bio/3',5'-dihydrodiol-simvastatin-lactone form",bio/35dsmv_c
 35dsmv_s,dcs:CellularCompartmentExtracellular,"bio/3',5'-dihydrodiol-simvastatin-lactone form",bio/35dsmv_s
-3hibupglu_S_c,dcs:CellularCompartmentCytosol,bio/3-hydroxy S-ibuprofen-glucuronide,bio/3hibupglu_S_c
-3hibupglu_S_s,dcs:CellularCompartmentExtracellular,bio/3-hydroxy S-ibuprofen-glucuronide,bio/3hibupglu_S_s
-3hibup_R_c,dcs:CellularCompartmentCytosol,bio/3-hydroxy R-ibuprofen,bio/3hibup_R_c
-3hibup_R_s,dcs:CellularCompartmentExtracellular,bio/3-hydroxy R-ibuprofen,bio/3hibup_R_s
-3hibup_S_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/3-hydroxy S-ibuprofen,bio/3hibup_S_r
-3hibupglu_S_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/3-hydroxy S-ibuprofen-glucuronide,bio/3hibupglu_S_r
-3hibup_S_c,dcs:CellularCompartmentCytosol,bio/3-hydroxy S-ibuprofen,bio/3hibup_S_c
-3hibup_S_s,dcs:CellularCompartmentExtracellular,bio/3-hydroxy S-ibuprofen,bio/3hibup_S_s
+3hibupglu_S_c,dcs:CellularCompartmentCytosol,bio/3-hydroxy S-ibuprofen-glucuronide,bio/3hibupglu_s_c
+3hibupglu_S_s,dcs:CellularCompartmentExtracellular,bio/3-hydroxy S-ibuprofen-glucuronide,bio/3hibupglu_s_s
+3hibup_R_c,dcs:CellularCompartmentCytosol,bio/3-hydroxy R-ibuprofen,bio/3hibup_r_c
+3hibup_R_s,dcs:CellularCompartmentExtracellular,bio/3-hydroxy R-ibuprofen,bio/3hibup_r_s
+3hibup_S_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/3-hydroxy S-ibuprofen,bio/3hibup_s_r
+3hibupglu_S_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/3-hydroxy S-ibuprofen-glucuronide,bio/3hibupglu_s_r
+3hibup_S_c,dcs:CellularCompartmentCytosol,bio/3-hydroxy S-ibuprofen,bio/3hibup_s_c
+3hibup_S_s,dcs:CellularCompartmentExtracellular,bio/3-hydroxy S-ibuprofen,bio/3hibup_s_s
 3hlvst_c,dcs:CellularCompartmentCytosol,bio/3''-hydroxy-lovastatin lactone form,bio/3hlvst_c
 3hlvstacid_c,dcs:CellularCompartmentCytosol,bio/3''-hydroxy-lovastatin acid form,bio/3hlvstacid_c
 3hlvstacid_s,dcs:CellularCompartmentExtracellular,bio/3''-hydroxy-lovastatin acid form,bio/3hlvstacid_s
@@ -8076,12 +8076,12 @@ atvethgluc_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/atorvastatin-ether-
 atvacylgluc_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/atorvastatin-acyl-glucuronide / G2,bio/atvacylgluc_r
 atvlacgluc_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/atorvastatin-lactone-ether-glucuronide / G3,bio/atvlacgluc_r
 atvlac_s,dcs:CellularCompartmentExtracellular,bio/atorvastatin-lactone,bio/atvlac_s
-caribupglu_S_c,dcs:CellularCompartmentCytosol,bio/S-carboxy ibuprofen glucuronide,bio/caribupglu_S_c
-caribupglu_S_s,dcs:CellularCompartmentExtracellular,bio/S-carboxy ibuprofen glucuronide,bio/caribupglu_S_s
-caribup_R_c,dcs:CellularCompartmentCytosol,bio/R-carboxy ibuprofen,bio/caribup_R_c
-caribup_R_s,dcs:CellularCompartmentExtracellular,bio/R-carboxy ibuprofen,bio/caribup_R_s
+caribupglu_S_c,dcs:CellularCompartmentCytosol,bio/S-carboxy ibuprofen glucuronide,bio/caribupglu_s_c
+caribupglu_S_s,dcs:CellularCompartmentExtracellular,bio/S-carboxy ibuprofen glucuronide,bio/caribupglu_s_s
+caribup_R_c,dcs:CellularCompartmentCytosol,bio/R-carboxy ibuprofen,bio/caribup_r_c
+caribup_R_s,dcs:CellularCompartmentExtracellular,bio/R-carboxy ibuprofen,bio/caribup_r_s
 caribup_s_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/S-carboxy ibuprofen,bio/caribup_s_r
-caribupglu_S_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/S-carboxy ibuprofen glucuronide,bio/caribupglu_S_r
+caribupglu_S_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/S-carboxy ibuprofen glucuronide,bio/caribupglu_s_r
 caribup_s_c,dcs:CellularCompartmentCytosol,bio/S-carboxy ibuprofen,bio/caribup_s_c
 caribup_s_s,dcs:CellularCompartmentExtracellular,bio/S-carboxy ibuprofen,bio/caribup_s_s
 crglz_c,dcs:CellularCompartmentCytosol,bio/carboxy-gliclazide,bio/crglz_c
@@ -8134,8 +8134,8 @@ fvstetglu_s,dcs:CellularCompartmentExtracellular,bio/des-isopropyl-dihydro-fluva
 glc3meacp_s,dcs:CellularCompartmentExtracellular,bio/glucuronide-conjugate of 3-methoxy-acetaminophen,bio/glc3meacp_s
 glz_s,dcs:CellularCompartmentExtracellular,bio/Gliclazide,bio/glz_s
 gtacmp_s,dcs:CellularCompartmentExtracellular,bio/glucuronide-thiomethyl-acetaminophen conjugate,bio/gtacmp_s
-ibup_R_s,dcs:CellularCompartmentExtracellular,bio/ibuprofen-R,bio/ibup_R_s
-ibup_S_s,dcs:CellularCompartmentExtracellular,bio/ibuprofen-S,bio/ibup_S_s
+ibup_R_s,dcs:CellularCompartmentExtracellular,bio/ibuprofen-R,bio/ibup_r_s
+ibup_S_s,dcs:CellularCompartmentExtracellular,bio/ibuprofen-S,bio/ibup_s_s
 ibupgluc_s,dcs:CellularCompartmentExtracellular,bio/ibuprofen acyl glucuronide,bio/ibupgluc_s
 isolvstacid_s,dcs:CellularCompartmentExtracellular,"bio/3'-hydroxy-iso-delta-4',5'-hydroxy acid form of lovastatin",bio/isolvstacid_s
 lst4exp_s,dcs:CellularCompartmentExtracellular,bio/Losartan-E3174/ losartan-M6,bio/lst4exp_s
@@ -8174,7 +8174,7 @@ smvacid_s,dcs:CellularCompartmentExtracellular,bio/simvastatin dihydroxy acid fo
 stacmp_s,dcs:CellularCompartmentExtracellular,bio/sulphate-conjugate of thiomethyl-acetaminophen,bio/stacmp_s
 sulpacmp_s,dcs:CellularCompartmentExtracellular,bio/sulphate-conjugate-acetaminophen,bio/sulpacmp_s
 tacr_s,dcs:CellularCompartmentExtracellular,bio/Tacrolimus,bio/tacr_s
-tauribup_S_s,dcs:CellularCompartmentExtracellular,bio/taurine conjugate of S-ibuprofen,bio/tauribup_S_s
+tauribup_S_s,dcs:CellularCompartmentExtracellular,bio/taurine conjugate of S-ibuprofen,bio/tauribup_s_s
 thrfvs_s,dcs:CellularCompartmentExtracellular,bio/threo-isomer of fluvastain,bio/thrfvs_s
 tlacfvs_s,dcs:CellularCompartmentExtracellular,bio/trans-lactone-fluvastatin,bio/tlacfvs_s
 tmd_s,dcs:CellularCompartmentExtracellular,bio/Torasemide,bio/tmd_s
@@ -8198,16 +8198,16 @@ tmacmp_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/thiomethyl-conjugate-ac
 gtacmp_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/glucuronide-thiomethyl-acetaminophen conjugate,bio/gtacmp_r
 gtacmp_c,dcs:CellularCompartmentCytosol,bio/glucuronide-thiomethyl-acetaminophen conjugate,bio/gtacmp_c
 ibupgluc_c,dcs:CellularCompartmentCytosol,bio/ibuprofen acyl glucuronide,bio/ibupgluc_c
-ibup_S_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/ibuprofen-S,bio/ibup_S_r
+ibup_S_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/ibuprofen-S,bio/ibup_s_r
 ibupgluc_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/ibuprofen acyl glucuronide,bio/ibupgluc_r
-ibup_R_c,dcs:CellularCompartmentCytosol,bio/ibuprofen-R,bio/ibup_R_c
-ibupcoa_R_c,dcs:CellularCompartmentCytosol,bio/ibuprofen-CoA-R form,bio/ibupcoa_R_c
-ibup_R_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/ibuprofen-R,bio/ibup_R_r
-2hibup_R_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/2-hydroxy-R-ibuprofen,bio/2hibup_R_r
-3hibup_R_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/3-hydroxy R-ibuprofen,bio/3hibup_R_r
-ibupcoa_S_c,dcs:CellularCompartmentCytosol,bio/ibuprofen-CoA-S form,bio/ibupcoa_S_c
-ibup_S_c,dcs:CellularCompartmentCytosol,bio/ibuprofen-S,bio/ibup_S_c
-tauribup_S_c,dcs:CellularCompartmentCytosol,bio/taurine conjugate of S-ibuprofen,bio/tauribup_S_c
+ibup_R_c,dcs:CellularCompartmentCytosol,bio/ibuprofen-R,bio/ibup_r_c
+ibupcoa_R_c,dcs:CellularCompartmentCytosol,bio/ibuprofen-CoA-R form,bio/ibupcoa_r_c
+ibup_R_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/ibuprofen-R,bio/ibup_r_r
+2hibup_R_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/2-hydroxy-R-ibuprofen,bio/2hibup_r_r
+3hibup_R_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/3-hydroxy R-ibuprofen,bio/3hibup_r_r
+ibupcoa_S_c,dcs:CellularCompartmentCytosol,bio/ibuprofen-CoA-S form,bio/ibupcoa_s_c
+ibup_S_c,dcs:CellularCompartmentCytosol,bio/ibuprofen-S,bio/ibup_s_c
+tauribup_S_c,dcs:CellularCompartmentCytosol,bio/taurine conjugate of S-ibuprofen,bio/tauribup_s_c
 isolvstacid_c,dcs:CellularCompartmentCytosol,"bio/3'-hydroxy-iso-delta-4',5'-hydroxy acid form of lovastatin",bio/isolvstacid_c
 lst4exp_c,dcs:CellularCompartmentCytosol,bio/Losartan-E3174/ losartan-M6,bio/lst4exp_c
 lstn_r,dcs:CellularCompartmentEndoplasmicReticulum,bio/Losartan,bio/lstn_r
