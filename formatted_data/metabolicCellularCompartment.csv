@@ -8312,10 +8312,6 @@ m00519s,dcs:CellularCompartmentExtracellular,bio/MNXM9598,bio/m00519s
 m02039i,dcs:CellularCompartmentInnerMitochondria,bio/MNXM1,bio/m02039i
 m02751i,dcs:CellularCompartmentInnerMitochondria,bio/MNXM9,bio/m02751i
 temp001s,dcs:CellularCompartmentExtracellular,bio/BIOMASS,bio/temp001s
-m10000s,dcs:CellularCompartmentExtracellular,bio/others,bio/m10000s
-m10001s,dcs:CellularCompartmentExtracellular,bio/steroids,bio/m10001s
-m10002s,dcs:CellularCompartmentExtracellular,bio/xenobiotics,bio/m10002s
-m10003s,dcs:CellularCompartmentExtracellular,bio/arachidonate derivatives,bio/m10003s
 m10004r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM777,bio/m10004r
 m10004l,dcs:CellularCompartmentLysosome,bio/MNXM777,bio/m10004l
 m10005s,dcs:CellularCompartmentExtracellular,bio/MNXM72,bio/m10005s
@@ -8353,10 +8349,6 @@ m02731r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM96054,bio/m02731r
 m02731g,dcs:CellularCompartmentGolgiApparatus,bio/MNXM96054,bio/m02731g
 m02838s,dcs:CellularCompartmentExtracellular,bio/MNXM1443,bio/m02838s
 m00196r,dcs:CellularCompartmentEndoplasmicReticulum,bio/MNXM78340,bio/m00196r
-m10012c,dcs:CellularCompartmentCytosol,bio/cofactor_pool_biomass,bio/m10012c
-m10013c,dcs:CellularCompartmentCytosol,bio/protein_pool_biomass,bio/m10013c
-m10014c,dcs:CellularCompartmentCytosol,bio/lipid_pool_biomass,bio/m10014c
-m10015c,dcs:CellularCompartmentCytosol,bio/metabolite_pool_biomass,bio/m10015c
 m10016c,dcs:CellularCompartmentCytosol,bio/2_3-epoxy-2_3-dihydro-2-methyl-3-phytyl-1_4-naphthoquinone,bio/m10016c
 m10017c,dcs:CellularCompartmentCytosol,bio/3-hydroxy-2-methyl-3-phytyl-2_3-dihydronaphthoquinone,bio/m10017c
 m10018c,dcs:CellularCompartmentCytosol,bio/5-Hydroxy-2-oxo-4-ureido-2_5-dihydro-1H-imidazole-5-carboxylate,bio/m10018c

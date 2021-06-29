@@ -1,7 +1,7 @@
 id,name,kind,sboTerm,dcid
 group1,Acyl-CoA hydrolysis,dcs:HierachyTypePartonomy,"""SBO:0000633""",bio/acyl-coa_hydrolysis
 group2,Acylglycerides metabolism,dcs:HierachyTypePartonomy,"""SBO:0000633""",bio/acylglycerides_metabolism
-group3,"Alanine, aspartate and glutamate metabolism",dcs:HierachyTypePartonomy,"""SBO:0000633""",bio/alanine_aspartate_and_glutamate_metabolism
+group3,"Alanine, aspartate and glutamate metabolism",dcs:HierachyTypePartonomy,"""SBO:0000633""",bio/alanine__aspartate_and_glutamate_metabolism
 group4,Alkaloids biosynthesis,dcs:HierachyTypePartonomy,"""SBO:0000633""",bio/alkaloids_biosynthesis
 group5,Amino sugar and nucleotide sugar metabolism,dcs:HierachyTypePartonomy,"""SBO:0000633""",bio/amino_sugar_and_nucleotide_sugar_metabolism
 group6,Aminoacyl-tRNA biosynthesis,dcs:HierachyTypePartonomy,"""SBO:0000633""",bio/aminoacyl-trna_biosynthesis
@@ -69,7 +69,7 @@ group67,Glucocorticoid biosynthesis,dcs:HierachyTypePartonomy,"""SBO:0000633""",
 group68,Glutathione metabolism,dcs:HierachyTypePartonomy,"""SBO:0000633""",bio/glutathione_metabolism
 group69,Glycerolipid metabolism,dcs:HierachyTypePartonomy,"""SBO:0000633""",bio/glycerolipid_metabolism
 group70,Glycerophospholipid metabolism,dcs:HierachyTypePartonomy,"""SBO:0000633""",bio/glycerophospholipid_metabolism
-group71,"Glycine, serine and threonine metabolism",dcs:HierachyTypePartonomy,"""SBO:0000633""",bio/glycine_serine_and_threonine_metabolism
+group71,"Glycine, serine and threonine metabolism",dcs:HierachyTypePartonomy,"""SBO:0000633""",bio/glycine__serine_and_threonine_metabolism
 group72,Glycolysis / Gluconeogenesis,dcs:HierachyTypePartonomy,"""SBO:0000633""",bio/glycolysis_/_gluconeogenesis
 group73,Glycosphingolipid biosynthesis-ganglio series,dcs:HierachyTypePartonomy,"""SBO:0000633""",bio/glycosphingolipid_biosynthesis-ganglio_series
 group74,Glycosphingolipid biosynthesis-globo series,dcs:HierachyTypePartonomy,"""SBO:0000633""",bio/glycosphingolipid_biosynthesis-globo_series
@@ -103,7 +103,7 @@ group101,Pentose and glucuronate interconversions,dcs:HierachyTypePartonomy,"""S
 group102,Pentose phosphate pathway,dcs:HierachyTypePartonomy,"""SBO:0000633""",bio/pentose_phosphate_pathway
 group103,Peptide metabolism,dcs:HierachyTypePartonomy,"""SBO:0000633""",bio/peptide_metabolism
 group104,Phenylalanine metabolism,dcs:HierachyTypePartonomy,"""SBO:0000633""",bio/phenylalanine_metabolism
-group105,"Phenylalanine, tyrosine and tryptophan biosynthesis",dcs:HierachyTypePartonomy,"""SBO:0000633""",bio/phenylalanine_tyrosine_and_tryptophan_biosynthesis
+group105,"Phenylalanine, tyrosine and tryptophan biosynthesis",dcs:HierachyTypePartonomy,"""SBO:0000633""",bio/phenylalanine__tyrosine_and_tryptophan_biosynthesis
 group106,Phosphatidylinositol phosphate metabolism,dcs:HierachyTypePartonomy,"""SBO:0000633""",bio/phosphatidylinositol_phosphate_metabolism
 group107,Pool reactions,dcs:HierachyTypePartonomy,"""SBO:0000633""",bio/pool_reactions
 group108,Porphyrin metabolism,dcs:HierachyTypePartonomy,"""SBO:0000633""",bio/porphyrin_metabolism
@@ -132,7 +132,7 @@ group130,Tryptophan metabolism,dcs:HierachyTypePartonomy,"""SBO:0000633""",bio/t
 group131,Tyrosine metabolism,dcs:HierachyTypePartonomy,"""SBO:0000633""",bio/tyrosine_metabolism
 group132,Ubiquinone synthesis,dcs:HierachyTypePartonomy,"""SBO:0000633""",bio/ubiquinone_synthesis
 group133,Urea cycle,dcs:HierachyTypePartonomy,"""SBO:0000633""",bio/urea_cycle
-group134,"Valine, leucine, and isoleucine metabolism",dcs:HierachyTypePartonomy,"""SBO:0000633""",bio/valine_leucine_and_isoleucine_metabolism
+group134,"Valine, leucine, and isoleucine metabolism",dcs:HierachyTypePartonomy,"""SBO:0000633""",bio/valine__leucine__and_isoleucine_metabolism
 group135,Vitamin A metabolism,dcs:HierachyTypePartonomy,"""SBO:0000633""",bio/vitamin_a_metabolism
 group136,Vitamin B12 metabolism,dcs:HierachyTypePartonomy,"""SBO:0000633""",bio/vitamin_b12_metabolism
 group137,Vitamin B2 metabolism,dcs:HierachyTypePartonomy,"""SBO:0000633""",bio/vitamin_b2_metabolism
